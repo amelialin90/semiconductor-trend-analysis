@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# raw fetched data (large; regenerate with `semitrend fetch`) and derived match dumps
+data/
+semitrend/*.egg-info/
+
+# run logs (may contain contact emails passed as CLI args)
+logs/
+
+# editor / OS cruft
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+# These are generated outputs, not authored source - excluded from GitHub's
+# language-detection stats so the repo's "Languages" bar reflects the actual
+# Python work instead of being dominated by report.html's embedded chart bytes.
+output/report.html linguist-generated=true
+output/charts/*.png linguist-generated=true
+output/tables/*.csv linguist-generated=true
