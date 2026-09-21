@@ -1,3 +1,5 @@
+📊 [查看完整互動報告](https://amelialin90.github.io/semiconductor-trend-analysis/output/report.html)
+
 # semitrend — 半導體專利／論文技術關鍵字趨勢分析
 
 追蹤 GAA、CoWoS、EUV、chiplet、HBM、hybrid bonding……等 47 個技術概念在
