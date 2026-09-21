@@ -6,18 +6,6 @@ arXiv、IEEE Xplore（以及可選的 Google Patents）文獻中，逐年出現�
 可預期的比對規則（大小寫、連字號、複數、LaTeX／Unicode 正規化、排除規則）
 把各種寫法收斂到同一個概念。
 
-## 這份公開版本不包含什麼
-
-為了讓這個 repo 保持乾淨、可以直接上傳到 GitHub，以下內容**沒有**放進來，
-需要的話照下面的指令自己產生：
-
-| 沒放進來的東西 | 原始大小 | 怎麼補回來 |
-|---|---|---|
-| `data/raw/`（抓下來的原始論文 JSON） | 約 2.1 GB | 跑下面「安裝與執行」第 1 步（`semitrend fetch`） |
-| `.venv/`（Python 虛擬環境） | 約 350 MB | `python -m venv .venv` + `pip install -r requirements.txt` |
-| `logs/`、QA 截圖資料夾 | 少量 | 執行期間自動產生，不需要手動處理 |
-| 投影片（`deck/`，課程報告用） | — | 課程交付物，不放進公開 repo |
-
 `output/tables/*.csv`、`output/report.html` 這些**分析完的結果**
 都有放進來，可以直接打開看，不需要重新抓資料就能瀏覽。
 
