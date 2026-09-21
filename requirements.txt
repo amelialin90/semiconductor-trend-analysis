@@ -1,0 +1,8 @@
+requests>=2.31
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+feedparser>=6.0
+tqdm>=4.66
+# optional - Google Patents via BigQuery public dataset
+# google-cloud-bigquery>=3.20

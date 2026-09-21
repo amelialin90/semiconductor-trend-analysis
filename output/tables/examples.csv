@@ -1,0 +1,420 @@
+source,concept,year,id,title,url,cited
+all,FinFET,2024,61698072d1dfdb2ae3e38ec583b42769a0e454ab,"Review of: ""FinFET nanotransistor downscaling causes more short channel effects, less gate control, exponential increase in leakage currents, drastic process changes and unmanageable power densities""",https://doi.org/10.32388/hx4oyk,450
+all,FinFET,2024,ce0e64adbd649f43d7fcb764d44f1db0b5c7c05f,"Review of: ""FinFET nanotransistor, the reduction of scale causes more short channel effects, less gate control, an exponential increase in leakage currents, severe process changes, and power densities""",https://doi.org/10.32388/h3qk7b,411
+all,FinFET,2023,181bbe2fe31fccb689455b982403878170a980e6,2D fin field-effect transistors integrated with epitaxial high-k gate oxide,https://doi.org/10.1038/s41586-023-05797-z,228
+all,CFET,2024,6ae7cb9878af76e1cf1ba6a85a8eed40d1cb14b1,New structure transistors for advanced technology node CMOS ICs,https://doi.org/10.1093/nsr/nwae008,159
+all,CFET,2024,c70065bdbc1389be3387885bd0b43d80b9b91763,Van der Waals polarity-engineered 3D integration of 2D complementary logic,https://doi.org/10.1038/s41586-024-07438-5,149
+all,CFET,2023,6bd4ed48a5f3b7492273ea3b0d1ee944b38925a0,Complementary Field-Effect Transistor (CFET) Demonstration at 48nm Gate Pitch for Future Logic Technology Scaling,https://doi.org/10.1109/iedm45741.2023.10413672,67
+all,EUV,2023,af492dda60335870a8f6ed71d7f1b2fbe79e5e58,Trends in photoresist materials for extreme ultraviolet lithography: A review,https://doi.org/10.1016/j.mattod.2023.05.027,174
+all,EUV,2023,35f7532262c605fcb2ac22a44ddc5252c3692fd5,Extreme ultraviolet metalens by vacuum guiding,https://doi.org/10.1126/science.adg6881,127
+all,EUV,2024,a4e515bc6239a0b3911d0188957117ef794ad3d6,12-Spin-Qubit Arrays Fabricated on a 300 mm Semiconductor Manufacturing Line,https://doi.org/10.1021/acs.nanolett.4c05205,107
+all,HighNA,2023,e51ce5bbf955b72a9bd95a4294d62d92fa5a2fb2,3D-printed multilayer structures for high–numerical aperture achromatic metalenses,https://doi.org/10.1126/sciadv.adj9262,87
+all,HighNA,2025,20ec52766cd0e1c8fb85196a04b6bd226613a5d1,Heterogeneous-Interface-Induced Charge Redistribution Toward Fe-Based Polyanion Cathode for Advanced Sodium-Ion Batteries.,https://doi.org/10.1021/jacs.5c02480,79
+all,HighNA,2025,05904a708b7408d39725678d9bea0244539ca3b6,Advancements in Lithography Techniques and Emerging Molecular Strategies for Nanostructure Fabrication,https://doi.org/10.3390/ijms26073027,66
+all,Node,2024,25ebc7fa98bd43369f8ddd062a3bb530b945c092,"CMOS Scaling for the 5 nm Node and Beyond: Device, Process and Technology",https://doi.org/10.3390/nano14100837,120
+all,Node,2023,2015ebd044fa0c13e1db5eae121bf0013b665890,In‐Grain Ferroelectric Switching in Sub‐5 nm Thin Al0.74Sc0.26N Films at 1 V,https://doi.org/10.1002/advs.202302296,88
+all,Node,2024,0ece4bc97134ee2eb32282cbf06749e2a04afc58,"Progress in Single/Multi Atoms and 2D‐Nanomaterials for Electro/Photocatalytic Nitrogen Reduction: Experimental, Computational and Machine Leaning Developments",https://doi.org/10.1002/aenm.202304106,81
+all,GAA,2024,25ebc7fa98bd43369f8ddd062a3bb530b945c092,"CMOS Scaling for the 5 nm Node and Beyond: Device, Process and Technology",https://doi.org/10.3390/nano14100837,120
+all,GAA,2025,26cfb57d0dc77f0f9fda01df441075f722d25aad,Low-power 2D gate-all-around logics via epitaxial monolithic 3D integration,https://doi.org/10.1038/s41563-025-02117-w,81
+all,GAA,2024,255662e2be51886ec2aed396b1165c06468be8a7,FinFET to GAA MBCFET: A Review and Insights,https://doi.org/10.1109/ACCESS.2024.3384428,57
+all,FeFET,2023,1d3a8bbb668ef92dae881b4d6388b9c67cf1f49a,Scalable CMOS back-end-of-line-compatible AlScN/two-dimensional channel ferroelectric field-effect transistors,https://doi.org/10.1038/s41565-023-01399-y,209
+all,FeFET,2024,dee2bed72d736009eba977a4f6a69914dbe81b2e,Ultrafast high-endurance memory based on sliding ferroelectrics,https://doi.org/10.1126/science.adp3575,177
+all,FeFET,2024,a39947293ea3682f5d1efe03508c04213e365dab,Giant energy storage and power density negative capacitance superlattices,https://doi.org/10.1038/s41586-024-07365-5,135
+all,Neuromorphic,2023,43404df4ea1e51e9c75f0facf2a7dbd7c01923a5,"Neuromorphic sensorimotor loop embodied by monolithically integrated, low-voltage, soft e-skin",https://doi.org/10.1126/science.ade0086,700
+all,Neuromorphic,2023,30c21df10d71a6262c7f444797a1ed15a26aaf0e,SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence,https://doi.org/10.1126/sciadv.adi1480,558
+all,Neuromorphic,2023,d8e3a88b8ae7dde16b03c595d6ec21383e205c78,Lithium niobate photonics: Unlocking the electromagnetic spectrum,https://doi.org/10.1126/science.abj4396,548
+all,RRAM,2023,35a8c483ed0641ebbb56da1bd2d0f188b000a8ca,RETROSPECTIVE:PRIME: A Novel Processing-in-memory Architecture for Neural Network Computation in ReRAM-based Main Memory,https://www.semanticscholar.org/paper/35a8c483ed0641ebbb56da1bd2d0f188b000a8ca,683
+all,RRAM,2024,2fe421ae6ccb02d854237e0950313c13dee71124,Hardware implementation of memristor-based artificial neural networks,https://doi.org/10.1038/s41467-024-45670-9,476
+all,RRAM,2023,a0cf8fe50d5d87a6b5213312244ba224e96e6e13,Thousands of conductance levels in memristors integrated on CMOS,https://doi.org/10.1038/s41586-023-05759-5,451
+all,TFET,2023,6638075d6b48b03380109adaba91ca280aa03bb1,Ferroelectric gating of two-dimensional semiconductors for the integration of steep-slope logic and neuromorphic devices,https://doi.org/10.1038/s41928-023-01018-7,133
+all,TFET,2024,25ebc7fa98bd43369f8ddd062a3bb530b945c092,"CMOS Scaling for the 5 nm Node and Beyond: Device, Process and Technology",https://doi.org/10.3390/nano14100837,120
+all,TFET,2023,2d6be3bf4b8f0278f7b3dba5d094174e66c62036,Spin dynamics in van der Waals magnetic systems,https://doi.org/10.1016/j.physrep.2023.09.002,54
+all,GaN,2023,0e1c60dc4119589bbbf02da26f73f4fd6330be4b,Revolutionizing Cyber Threat Detection With Large Language Models: A Privacy-Preserving BERT-Based Lightweight Model for IoT/IIoT Devices,https://doi.org/10.1109/ACCESS.2024.3363469,269
+all,GaN,2023,0c3472a88e41025318bc695eae84b73604a0612f,Real-time programmable metasurface for terahertz multifunctional wave front engineering,https://doi.org/10.1038/s41377-023-01228-w,136
+all,GaN,2024,310c29a155066f51247a8cd4fa31fa80720b832d,GaN Power Integration Technology and Its Future Prospects,https://doi.org/10.1109/TED.2023.3341053,109
+all,HKMG,2023,181bbe2fe31fccb689455b982403878170a980e6,2D fin field-effect transistors integrated with epitaxial high-k gate oxide,https://doi.org/10.1038/s41586-023-05797-z,228
+all,HKMG,2023,6638075d6b48b03380109adaba91ca280aa03bb1,Ferroelectric gating of two-dimensional semiconductors for the integration of steep-slope logic and neuromorphic devices,https://doi.org/10.1038/s41928-023-01018-7,133
+all,HKMG,2023,1df48922b7ef0941b1cc10b517b8f83c9f914127,First demonstration of in-memory computing crossbar using multi-level Cell FeFET,https://doi.org/10.1038/s41467-023-42110-y,130
+all,Resist,2023,af492dda60335870a8f6ed71d7f1b2fbe79e5e58,Trends in photoresist materials for extreme ultraviolet lithography: A review,https://doi.org/10.1016/j.mattod.2023.05.027,174
+all,Resist,2023,e9906336996537b0ec8aaa050b353b43c29bcd17,Recent developments in photoresists for extreme-ultraviolet lithography,https://doi.org/10.1016/j.polymer.2023.126020,83
+all,Resist,2023,6c88acc4588e9f2b1bc087dad525eb2799611f5f,Organometallic and coordinative photoresist materials for EUV lithography and related photolytic mechanisms,https://doi.org/10.1016/j.ccr.2023.215307,81
+all,CIM,2023,35a8c483ed0641ebbb56da1bd2d0f188b000a8ca,RETROSPECTIVE:PRIME: A Novel Processing-in-memory Architecture for Neural Network Computation in ReRAM-based Main Memory,https://www.semanticscholar.org/paper/35a8c483ed0641ebbb56da1bd2d0f188b000a8ca,683
+all,CIM,2024,2fe421ae6ccb02d854237e0950313c13dee71124,Hardware implementation of memristor-based artificial neural networks,https://doi.org/10.1038/s41467-024-45670-9,476
+all,CIM,2023,271e7743763bb9555fc6c83dadfda1e6d4cf7eb0,Edge learning using a fully integrated neuro-inspired memristor chip,https://doi.org/10.1126/science.ade3483,402
+all,RISCV,2023,50a1e77cd336579a5ccdd808eda66a34d3b58bbb,A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms,https://doi.org/10.1145/3729215,161
+all,RISCV,2025,4100b2448c19705277fdcd36097d199e33b89e5f,A RISC-V 32-bit microprocessor based on two-dimensional semiconductors,https://doi.org/10.1038/s41586-025-08759-9,100
+all,RISCV,2023,9c7488ea511900a7ce06f3d20921e8c179e0b21d,DIANA: An End-to-End Hybrid DIgital and ANAlog Neural Network SoC for the Edge,https://doi.org/10.1109/JSSC.2022.3214064,69
+all,AIAccel,2023,b05e2df517662bffcd25a396deea07f21855fea3,An analog-AI chip for energy-efficient speech recognition and transcription,https://doi.org/10.1038/s41586-023-06337-5,247
+all,AIAccel,2024,505641490f56e0a0b67757a1f3a157bf5a62e97d,NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing,https://doi.org/10.1145/3620666.3651380,180
+all,AIAccel,2023,50a1e77cd336579a5ccdd808eda66a34d3b58bbb,A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms,https://doi.org/10.1145/3729215,161
+all,DTCO,2024,42380f9203c1d9bfc17340d68eb1ec8308aaa5c1,High-Bandwidth Chiplet Interconnects for Advanced Packaging Technologies in AI/ML Applications: Challenges and Solutions,https://doi.org/10.1109/ojsscs.2024.3506694,64
+all,DTCO,2024,8ee34114c61cf22cfe21d91bbf2e71255143a814,Overview of emerging semiconductor device model methodologies: From device physics to machine learning engines,https://doi.org/10.1016/j.fmre.2024.01.010,58
+all,DTCO,2023,66b5a751a30d42963d13e1005f5df2e4650abbd9,"Wafer-Scale Computing: Advancements, Challenges, and Future Perspectives [Feature]",https://doi.org/10.1109/MCAS.2024.3349669,52
+all,Ga2O3,2023,601f2fb34f7486d23403a5d51fd012323e44537e,Dual‐Mode Conversion of Photodetector and Neuromorphic Vision Sensor via Bias Voltage Regulation on a Single Device,https://doi.org/10.1002/adma.202308090,182
+all,Ga2O3,2023,110795d81b677fb68976a7eb7645795f9b83fcde,An avalanche-and-surge robust ultrawide-bandgap heterojunction for power electronics,https://doi.org/10.1038/s41467-023-40194-0,173
+all,Ga2O3,2023,94a2e4c52dda4894bdc2353f3740157c7ff5471e,Thermal management and packaging of wide and ultra-wide bandgap power devices: a review and perspective,https://doi.org/10.1088/1361-6463/acb4ff,156
+all,3DIC,2023,d8e3a88b8ae7dde16b03c595d6ec21383e205c78,Lithium niobate photonics: Unlocking the electromagnetic spectrum,https://doi.org/10.1126/science.abj4396,548
+all,3DIC,2023,dddc951e69723cab81eab67653cc070837580e10,Low-thermal-budget synthesis of monolayer molybdenum disulfide for silicon back-end-of-line integration on a 200 mm platform,https://doi.org/10.1038/s41565-023-01375-6,232
+all,3DIC,2023,56440edffa7b17c67caafa2b2646617cca362357,3D integration enables ultralow-noise isolator-free lasers in silicon photonics,https://doi.org/10.1038/s41586-023-06251-w,214
+all,MultiPatterning,2023,d6b84f225080067623b46932a5b809b80b1169dd,Synaptic and Gradual Conductance Switching Behaviors in CeO2/Nb-SrTiO3 Heterojunction Memristors for Electrocardiogram Signal Recognition.,https://doi.org/10.1021/acsami.2c19836,55
+all,MultiPatterning,2025,ef3a6b0d950e5a2f51964afbdbd16189cc0a5fd8,Enhanced Reliability and Controllability in Filamentary Oxide‐Based 3D Vertical Structured Resistive Memory with Pulse Scheme Algorithm for Versatile Neuromorphic Applications,https://doi.org/10.1002/adfm.202500956,23
+all,MultiPatterning,2024,288e9ed40d9d43d752caf4653ea268022c36a332,Self‐Rectifying Short‐Term Memory Phenomena Through Integration of TiOx Oxygen Reservoir and Al2O3 Barrier Layers for Neuromorphic System,https://doi.org/10.1002/admt.202400895,17
+all,CPO,2023,9630d918ef3cde06f39f7f333c8737e46032a504,Roadmapping the next generation of silicon photonics,https://doi.org/10.1038/s41467-024-44750-0,733
+all,CPO,2024,46062a1225c3f9f178530020cdc35051e5682037,A manufacturable platform for photonic quantum computing,https://doi.org/10.1038/s41586-025-08820-7,328
+all,CPO,2024,3dcaf781cde9d8fcf9e5870db6baeeeac1a5c303,Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence,https://doi.org/10.1126/science.adl1203,296
+all,Chiplet,2024,3dcaf781cde9d8fcf9e5870db6baeeeac1a5c303,Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence,https://doi.org/10.1126/science.adl1203,296
+all,Chiplet,2023,50a1e77cd336579a5ccdd808eda66a34d3b58bbb,A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms,https://doi.org/10.1145/3729215,161
+all,Chiplet,2025,f042f07247a3fa8fb0b49202b08488dd33b3b7da,"A 3D Memristive Cubic Map With Dual Discrete Memristors: Design, Implementation, and Application in Image Encryption",https://doi.org/10.1109/TCSVT.2025.3545868,154
+all,HybridBonding,2023,118d586e2a0149d21daaa77783d07fe9277c90cd,Recent Advances and Trends in Cu–Cu Hybrid Bonding,https://doi.org/10.1109/TCPMT.2023.3265529,107
+all,HybridBonding,2023,2722c87b3209717643e64313a57239799bc253a4,Low-temperature Cu/SiO2 hybrid bonding based on Ar/H2 plasma and citric acid cooperative activation for multi-functional chip integration,https://doi.org/10.1016/j.apsusc.2023.159074,56
+all,HybridBonding,2025,9c8d7eab81080bd66618e02e0dd114f03f35c38f,H2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference,https://doi.org/10.1145/3695053.3731008,54
+all,MRAM,2023,001b903ddf74855d7596b137f4798a7dca6a3f9f,Electrical control of magnetism by electric field and current-induced torques,https://doi.org/10.1103/RevModPhys.96.015005,100
+all,MRAM,2024,fdec04fc4a45a20e3a7bcea93739d3a74ae8489b,Recent progress in spin-orbit torque magnetic random-access memory,https://doi.org/10.1038/s44306-024-00044-1,94
+all,MRAM,2025,d432fffe57f42310221ba87dbf73e03b594c591c,Spintronic Devices upon 2D Magnetic Materials and Heterojunctions,https://doi.org/10.1021/acsnano.4c14168,87
+all,BSPDN,2023,5ed5561bee53f6218ea12c58586dd8a3545c6f84,Intel PowerVia Technology: Backside Power Delivery for High Density and High-Performance Computing,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185208,64
+all,BSPDN,2024,0d22bf1315025d9eead4f077e544129e0b828379,NeuroSim V1.4: Extending Technology Support for Digital Compute-in-Memory Toward 1nm Node,https://doi.org/10.1109/TCSI.2024.3362822,50
+all,BSPDN,2023,fd5e00dabda90ffd7b156f8b46cc19c3c4a4e9c2,Demonstration of a Stacked CMOS Inverter at 60nm Gate Pitch with Power Via and Direct Backside Device Contacts,https://doi.org/10.1109/iedm45741.2023.10413678,44
+all,Cryo,2023,57d8af9f181542e6d21e2b752a6b2d523016b832,The Future is Frozen: Cryogenic CMOS for High-Performance Computing (Invited),https://doi.org/10.1016/j.chip.2023.100082,63
+all,Cryo,2025,2a18e08beda99b9044134d9c9dead05068f3dd38,Spin-qubit control with a milli-kelvin CMOS chip,https://doi.org/10.1038/s41586-025-09157-x,57
+all,Cryo,2023,ae72392e73f673eeaef25f82b42bea7d987d8246,The Schottky barrier transistor in emerging electronic devices,https://doi.org/10.1088/1361-6528/acd05f,48
+all,Airgap,2025,fce107d6c1c33b01c0ab117c9b3555fdd9a38214,Recent Advances in Porous Low-k Materials for Integrated Circuits.,https://doi.org/10.1021/acsami.5c07498,30
+all,Airgap,2024,f5aea25c389e272c2f3f33903ceef09a590b2aae,High-performance 2D electronic devices enabled by strong and tough two-dimensional polymer with ultra-low dielectric constant,https://doi.org/10.1038/s41467-024-53935-6,27
+all,Airgap,2023,71a791c9450414d3edf987ec4061f3094663e815,Low-resistivity molybdenum obtained by atomic layer deposition,https://doi.org/10.1116/6.0002804,16
+all,CNT,2023,a0da24e7bd3f2087bb71ea4a19c8546f9ad407ef,Scaling aligned carbon nanotube transistors to a sub-10 nm node,https://doi.org/10.1038/s41928-023-00983-3,135
+all,CNT,2023,dd2e56c3c68a0d14e71cee3c4d26f43172c0ea04,Monolithic three-dimensional integration of RRAM-based hybrid memory architecture for one-shot learning,https://doi.org/10.1038/s41467-023-42981-1,85
+all,CNT,2023,95c47d8c36d64c783569099a3001d60550169769,Serum CRP biomarker detection by using carbon nanotube field-effect transistor (CNT-FET) immunosensor.,https://doi.org/10.1016/j.bioelechem.2023.108493,50
+all,DRAM,2023,6ecd45137b421b3729c5b28ebb1bd17e71f98b27,Retrospective: Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors,https://doi.org/10.48550/arXiv.2306.16093,563
+all,DRAM,2023,00e18c603e60d861c4e99c541e4d65ef442d5945,LLM in a flash: Efficient Large Language Model Inference with Limited Memory,https://doi.org/10.48550/arXiv.2312.11514,298
+all,DRAM,2024,f3d401f01aa5cb2eb3974196efda8895d06610c7,Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving,https://doi.org/10.1145/3773772,252
+all,3DNAND,2023,b0480518a70178e6485215ce2e5b132698a8eb89,Ongoing Evolution of DRAM Scaling via Third Dimension -Vertically Stacked DRAM -,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185290,69
+all,3DNAND,2023,714383dacfac7da115cd1b76acc8734a77c32f14,Comprehensive Design Guidelines of Gate Stack for QLC and Highly Reliable Ferroelectric VNAND,https://doi.org/10.1109/iedm45741.2023.10413820,66
+all,3DNAND,2023,3fc841474a794357446d62e95b0837064101e9a4,QLC Programmable 3D Ferroelectric NAND Flash Memory by Memory Window Expansion using Cell Stack Engineering,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185294,66
+all,CoWoS,2023,6602cd9718666e05dd59c276d68816ad6cf6fae6,CoWoS Architecture Evolution for Next Generation HPC on 2.5D System in Package,https://doi.org/10.1109/ECTC51909.2023.00174,90
+all,CoWoS,2023,976c4ad7cbe5fa3dbcaa3fe9298f63b1173f77d2,A 4nm 32Gb/s 8Tb/s/mm Die-to-Die Chiplet Using NRZ Single-Ended Transceiver With Equalization Schemes And Training Techniques,https://doi.org/10.1109/ISSCC42615.2023.10067477,34
+all,CoWoS,2024,667e634872ed641a0bf52aa53b525dbd836f4812,Next Generation Large Size High Interconnect Density CoWoS-R Package,https://doi.org/10.1109/ECTC51529.2024.00049,24
+all,Photonic-computing,2024,3dcaf781cde9d8fcf9e5870db6baeeeac1a5c303,Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence,https://doi.org/10.1126/science.adl1203,296
+all,Photonic-computing,2023,77d76c6a32976cc7e9bfa9476bdf649d326d9333,Lithography-free reconfigurable photonic processor,https://doi.org/10.1038/s41566-023-01253-6,290
+all,Photonic-computing,2023,eed88250415b8c404ec38bab6fc5730e1b645541,Prospects and applications of on-chip lasers,https://doi.org/10.1186/s43593-022-00027-x,258
+all,OxideSemi,2023,6ffa3024b7b913f9c20477291ea27f16f1838685,An extensive study on multiple ETL and HTL layers to design and simulation of high-performance lead-free CsSnCl3-based perovskite solar cells,https://doi.org/10.1038/s41598-023-28506-2,533
+all,OxideSemi,2023,cb52ce9d0b119d1c22689c1da70b3af7bcfbf31c,Deep Insights into the Coupled Optoelectronic and Photovoltaic Analysis of Lead-Free CsSnI3 Perovskite-Based Solar Cell Using DFT Calculations and SCAPS-1D Simulations,https://doi.org/10.1021/acsomega.3c00306,295
+all,OxideSemi,2024,e9c9fb248d40a8220dd3648b69c6287acbc69102,Selenium-alloyed tellurium oxide for amorphous p-channel transistors,https://doi.org/10.1038/s41586-024-07360-w,138
+all,DSA,2024,39a45e2373d0f1ec22b81467949d9cf322adadf0,Chemically tailored block copolymers for highly reliable sub-10-nm patterns by directed self-assembly,https://doi.org/10.1038/s41467-024-49839-0,41
+all,DSA,2023,4da806b3109813e7ebec58176a78b52779d4633d,"A Wafer‐Scale Nanoporous 2D Active Pixel Image Sensor Matrix with High Uniformity, High Sensitivity, and Rapid Switching",https://doi.org/10.1002/adma.202210715,41
+all,DSA,2023,f5c4cb3691db0c982a31b1eb6533d4a3d0cec534,Boosting Sensitivity and Reliability in Field‐Effect Transistor‐Based Biosensors with Nanoporous MoS2 Encapsulated by Non‐Planar Al2O3,https://doi.org/10.1002/adfm.202301919,29
+all,PCM,2023,b05e2df517662bffcd25a396deea07f21855fea3,An analog-AI chip for energy-efficient speech recognition and transcription,https://doi.org/10.1038/s41586-023-06337-5,247
+all,PCM,2024,d561d99086f546c2fb9e150cfb718f67ef0cfba6,Machine learning interatomic potential: Bridge the gap between small-scale models and realistic device-scale simulations,https://doi.org/10.1016/j.isci.2024.109673,152
+all,PCM,2023,00728295de5c2d3a2945b4199951794e15141497,Set/Reset Bilaterally Controllable Resistance Switching Ga‐doped Ge2Sb2Te5 Long‐Term Electronic Synapses for Neuromorphic Computing,https://doi.org/10.1002/adfm.202213296,118
+all,FanOut,2023,d83be5e45a5a6a56d751d110995edfcb3f48d71e,Challenges and prospects for advanced packaging,https://doi.org/10.1016/j.fmre.2023.04.014,122
+all,FanOut,2023,6602cd9718666e05dd59c276d68816ad6cf6fae6,CoWoS Architecture Evolution for Next Generation HPC on 2.5D System in Package,https://doi.org/10.1109/ECTC51909.2023.00174,90
+all,FanOut,2023,e09e4e60bd96e00f418377a80f0ece8c6e3359ce,Electromigration in three-dimensional integrated circuits,https://doi.org/10.1063/5.0139658,69
+all,MLforEDA,2024,bfeba7fc78b16da9c23c91d280e56f13e936e04d,BetterV: Controlled Verilog Generation with Discriminative Guidance,https://doi.org/10.48550/arXiv.2402.03375,182
+all,MLforEDA,2024,044a340ece2e7d0e0a15186e64cd766f06a6e015,VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool,https://doi.org/10.48550/arXiv.2408.08927,146
+all,MLforEDA,2023,da826782e7252ae0c73af79d4a4523d828676895,AutoDMP: Automated DREAMPlace-based Macro Placement,https://doi.org/10.1145/3569052.3578923,79
+all,2D-channel,2023,1d3a8bbb668ef92dae881b4d6388b9c67cf1f49a,Scalable CMOS back-end-of-line-compatible AlScN/two-dimensional channel ferroelectric field-effect transistors,https://doi.org/10.1038/s41565-023-01399-y,209
+all,2D-channel,2024,2adce83ea2aedde5aa96f19f7594ab33511c5936,Single-crystalline metal-oxide dielectrics for top-gate 2D transistors,https://doi.org/10.1038/s41586-024-07786-2,127
+all,2D-channel,2023,06d3aea62cd7777f7e46e421d28e8799efd03f7f,Emerging MoS2 Wafer-Scale Technique for Integrated Circuits,https://doi.org/10.1007/s40820-022-01010-4,122
+all,FeRAM,2023,cfc0d3ab06bd1777ce825ae3325bd989a0d51c8d,NVDRAM: A 32Gb Dual Layer 3D Stacked Non-volatile Ferroelectric Memory with Near-DRAM Performance for Demanding AI Workloads,https://doi.org/10.1109/iedm45741.2023.10413848,117
+all,FeRAM,2023,9d73210f61cd76774421f54d9d9786c043b48652,The Electrode‐Ferroelectric Interface as the Primary Constraint on Endurance and Retention in HZO‐Based Ferroelectric Capacitors,https://doi.org/10.1002/adfm.202303261,106
+all,FeRAM,2024,e25537443cffa29f5402e1b6ee38f7c4a2398327,New-Generation Ferroelectric AlScN Materials,https://doi.org/10.1007/s40820-024-01441-1,102
+all,NIL,2023,4fd79f4a896a5b7014b8f8156e4e176ca84d6115,One-step printable platform for high-efficiency metasurfaces down to the deep-ultraviolet region,https://doi.org/10.1038/s41377-023-01086-6,119
+all,NIL,2023,e67010b898b04d2c7da64efcb5a4d9fcc2af9ea5,Racetrack Ring Resonator Integrated with Multimode Interferometer Structure Based on Low-Cost Silica–Titania Platform for Refractive Index Sensing Application,https://doi.org/10.3390/photonics10090978,88
+all,NIL,2023,3ae040a900ea442eed7f8b2932f5de255b1594df,Realization of high aspect ratio metalenses by facile nanoimprint lithography using water-soluble stamps,https://doi.org/10.1186/s43074-023-00096-2,69
+all,CompLitho,2023,b28254ec49b79700d31b6f1b2e957593197b8bdd,Advances in Noble Metal-Decorated Metal Oxide Nanomaterials for Chemiresistive Gas Sensors: Overview,https://doi.org/10.1007/s40820-023-01047-z,489
+all,CompLitho,2023,2d144b50bd0d6c265b73824369d3ed22e89be64b,Novel Ultralow-Potential Electrochemiluminescence Aptasensor for the Highly Sensitive Detection of Zearalenone Using a Resonance Energy Transfer System.,https://doi.org/10.1021/acs.analchem.3c03437,80
+all,CompLitho,2023,a16d7e6c4ca689c171581d0cf8a26225b261bef6,A Novel Adaptive SMO-Based Simultaneous Diagnosis Method for IGBT Open-Circuit Faults and Current Sensor Incipient Faults of Inverters in PMSM Drives for Electric Vehicles,https://doi.org/10.1109/TIM.2023.3305653,67
+all,SiC,2023,5d5e9a0461fd45da9a8c51f6fab5bfe27b2bce78,"Stability, Reliability, and Robustness of GaN Power Devices: A Review",https://doi.org/10.1109/TPEL.2023.3266365,374
+all,SiC,2023,5738a0e063ed363488f328a0dcdc7609b8d4d7b7,Molecular simulation of the plastic deformation and crack formation in single grit grinding of 4H-SiC single crystal,https://doi.org/10.1016/j.ijmecsci.2023.108147,149
+all,SiC,2023,30bb23fccc3fbfc16ed286963d6b56687bd2e1d4,"A review of silicon carbide MOSFETs in electrified vehicles: Application, challenges, and future development",https://doi.org/10.1049/pel2.12524,134
+all,RuMo,2023,034c31a6308c966612dba9a61fc458f0fce71af4,Trace Lattice S Inserted RuO2 Flexible Nanosheets for Efficient and Long-Term Acidic Oxygen Evolution Catalysis.,https://doi.org/10.1002/smll.202208202,74
+all,RuMo,2024,e58aae27ec63f005c708252b3c2589532ec46479,Boosted H2O2 utilization and selective hydroxyl radical generation for water decontamination: Synergistic roles of dual active sites in H2O2 activation.,https://doi.org/10.1016/j.watres.2024.122453,59
+all,RuMo,2024,69104ede5cc0182f835dda3deb103b1d4f69f51b,Can P3S and C3S monolayers be used as anode materials in metal-ion batteries? An answer from first-principles study.,https://doi.org/10.1039/d3cp06014d,26
+all,UCIe,2024,102c3bf2c426b91fe3d384eb1ec1c9cd2d72e180,"High-performance, power-efficient three-dimensional system-in-package designs with universal chiplet interconnect express",https://doi.org/10.1038/s41928-024-01126-y,100
+all,UCIe,2023,a8560afa7e3e90cfbaa2a87421673f874016eb5d,Oxygen Vacancy-Enriched Bi2SeO5 Nanosheets with Dual Mechanism for Ammonium-Ion Batteries.,https://doi.org/10.1021/acsnano.3c08460,49
+all,UCIe,2023,49cc4dfa910bf97f11932003971a829effd92fcc,Defect Modulation in Cobalt Manganese Oxide Sheets for Stable and High‐Energy Aqueous Aluminum‐Ion Batteries,https://doi.org/10.1002/adfm.202301202,40
+all,HBM,2024,57e7af0b69325fafb371ef5d502e39ef9c90ef7e,Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads,https://doi.org/10.48550/arXiv.2401.10774,910
+all,HBM,2023,87b712c0d8638c9db84ed414aa48e9bd55e3e895,"Ramulator 2.0: A Modern, Modular, and Extensible DRAM Simulator",https://doi.org/10.1109/LCA.2023.3333759,185
+all,HBM,2023,afe9231fe4235b4b20d4c417a37a1e22f3f02179,A 192-Gb 12-High 896-GB/s HBM3 DRAM With a TSV Auto-Calibration Scheme and Machine-Learning-Based Layout Optimization,https://doi.org/10.1109/JSSC.2022.3193354,114
+all,GlassSubstrate,2023,2c88472fefb333f4c988be20468d0c425eb735a9,Antenna With Embedded Die in Glass Interposer for 6G Wireless Applications,https://doi.org/10.1109/TCPMT.2023.3251725,38
+all,GlassSubstrate,2023,cf8c75c87d5b3b9687e030d2fada745ecc311583,"Research of Vertical via Based on Silicon, Ceramic and Glass",https://doi.org/10.3390/mi14071391,36
+all,GlassSubstrate,2023,545e3dd6b1f1ce07c1fb9f07e87e7cb93b3b6110,Glass Platform for Co-Packaged Optics,https://doi.org/10.1109/JSTQE.2023.3247245,35
+all,SiQubit,2024,b41e199e1cce10080035aa3b9c924c89ba648a50,Industry-compatible silicon spin-qubit unit cells exceeding 99% fidelity,https://doi.org/10.1038/s41586-025-09531-9,130
+all,SiQubit,2025,153e5329f5f687cadfe0ba7b1e1c43d249084198,Simultaneous High-Fidelity Single-Qubit Gates in a Spin Qubit Array,https://arxiv.org/abs/2507.11918,51
+all,SiQubit,2023,32ce78232a4ec25e2c0cfe912c9c10a4408202e1,Bounds to electron spin qubit variability for scalable CMOS architectures,https://doi.org/10.1038/s41467-024-48557-x,43
+ieee,FinFET,2023,5ea441c96dd9676b687edf0c341038a2d8932d47,A Charge Domain SRAM Compute-in-Memory Macro With C-2C Ladder-Based 8-Bit MAC Unit in 22-nm FinFET Process for Edge Inference,https://doi.org/10.1109/JSSC.2022.3232601,144
+ieee,FinFET,2023,dc48bb56cd1d2c78f4526c903b8a55383ecffcd0,An Ultra-Efficient Approximate Multiplier With Error Compensation for Error-Resilient Applications,https://doi.org/10.1109/TCSII.2022.3215065,80
+ieee,FinFET,2023,5ed5561bee53f6218ea12c58586dd8a3545c6f84,Intel PowerVia Technology: Backside Power Delivery for High Density and High-Performance Computing,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185208,64
+ieee,GAA,2024,255662e2be51886ec2aed396b1165c06468be8a7,FinFET to GAA MBCFET: A Review and Insights,https://doi.org/10.1109/ACCESS.2024.3384428,57
+ieee,GAA,2024,0d22bf1315025d9eead4f077e544129e0b828379,NeuroSim V1.4: Extending Technology Support for Digital Compute-in-Memory Toward 1nm Node,https://doi.org/10.1109/TCSI.2024.3362822,50
+ieee,GAA,2023,3de3d88a51aeed390689fa43341f50e256fc3e3a,Complementary FET (CFET) Standard Cell Design for Low Parasitics and Its Impact on VLSI Prediction at 3-nm Process,https://doi.org/10.1109/TVLSI.2022.3220339,38
+ieee,RRAM,2023,cfce1a04fd269182b9879e95a31d8b77772ea22f,Privacy Protection of Medical Data Based on Multi-Scroll Memristive Hopfield Neural Network,https://doi.org/10.1109/TNSE.2022.3223930,176
+ieee,RRAM,2024,d6a044766aa609fbc8aaf9b1eb9799d0db8f8a15,Constructing Multiscroll Memristive Neural Network With Local Activity Memristor and Application in Image Encryption,https://doi.org/10.1109/TCYB.2024.3377011,155
+ieee,RRAM,2023,55fcd33a29c66a88147556de4c7a0767fb910a07,Generating Grid Multi-Scroll Attractors in Memristive Neural Networks,https://doi.org/10.1109/TCSI.2022.3228566,147
+ieee,Node,2023,49d189a6583338aa6ae6378791e631ba6c6fd375,PPA and Scaling Potential of Backside Power Options in N2 and A14 Nanosheet Technology,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185302,41
+ieee,Node,2023,3de3d88a51aeed390689fa43341f50e256fc3e3a,Complementary FET (CFET) Standard Cell Design for Low Parasitics and Its Impact on VLSI Prediction at 3-nm Process,https://doi.org/10.1109/TVLSI.2022.3220339,38
+ieee,Node,2023,064e267c03d9778f04bf58f0899ccda884ca85e3,Single-Event Upset Cross-Section Trends for D-FFs at the 5- and 7-nm Bulk FinFET Technology Nodes,https://doi.org/10.1109/TNS.2022.3226210,28
+ieee,GaN,2023,0e1c60dc4119589bbbf02da26f73f4fd6330be4b,Revolutionizing Cyber Threat Detection With Large Language Models: A Privacy-Preserving BERT-Based Lightweight Model for IoT/IIoT Devices,https://doi.org/10.1109/ACCESS.2024.3363469,269
+ieee,GaN,2024,310c29a155066f51247a8cd4fa31fa80720b832d,GaN Power Integration Technology and Its Future Prospects,https://doi.org/10.1109/TED.2023.3341053,109
+ieee,GaN,2023,2baf47757765e4b0b79e0094118ef0274e060dfa,An Actively-Passivated p-GaN Gate HEMT With Screening Effect Against Surface Traps,https://doi.org/10.1109/LED.2022.3222170,67
+ieee,HKMG,2023,ff03da5ac87a09ec9c3e2d4790012b65c68a0822,A 28-nm RRAM Computing-in-Memory Macro Using Weighted Hybrid 2T1R Cell Array and Reference Subtracting Sense Amplifier for AI Edge Inference,https://doi.org/10.1109/JSSC.2023.3280357,56
+ieee,HKMG,2023,019ca1be9ee6e0c0c4165345fa37f8979754a1b3,First demonstration of 3-dimensional stacked FET with top/bottom source-drain isolation and stacked n/p metal gate,https://doi.org/10.1109/iedm45741.2023.10413694,34
+ieee,HKMG,2024,a4301513f9f0938cad5c1eecdcc51c8546501ff5,Performance Improvement of Spacer-Engineered N-Type Tree Shaped NSFET Toward Advanced Technology Nodes,https://doi.org/10.1109/ACCESS.2024.3388504,33
+ieee,Resist,2023,f4d366fb89fdb6c57ee054f2993d4bb1c0fd9014,Robust Avalanche in 1.7 kV Vertical GaN Diodes With a Single-Implant Bevel Edge Termination,https://doi.org/10.1109/LED.2023.3302312,27
+ieee,Resist,2023,f9317a1b58ed9eadb103033c5f30530009f8f2e5,A Critical Review of Lithography Methodologies and Impacts of Topography on 2.5-D/3-D Interposers,https://doi.org/10.1109/TCPMT.2023.3265568,22
+ieee,Resist,2023,f18935203c22be170c3cf0ea7b0c9492e2443d20,Aluminum Nitride Thin Film Based Reconfigurable Integrated Photonic Devices,https://doi.org/10.1109/JSTQE.2023.3245290,21
+ieee,FeFET,2023,380ee41587092e39e79c24a566a2c659a79b3124,Experimental demonstration and modeling of a ferroelectric gate stack with a tunnel dielectric insert for NAND applications,https://doi.org/10.1109/iedm45741.2023.10413697,53
+ieee,FeFET,2024,3dfa129b77058fa07e4f4b5be6273fa3922a0fc4,Spatial and Energetic Mapping of Traps in FeFET During Endurance Process by Advanced Trap Characterization Platform,https://doi.org/10.1109/LED.2024.3469372,49
+ieee,FeFET,2023,b572f2ac22d2f6da2a6949d458632ae7518988ea,Tunable Non-Volatile Gate-to-Source/Drain Capacitance of FeFET for Capacitive Synapse,https://doi.org/10.1109/LED.2023.3311344,44
+ieee,CIM,2023,5ea441c96dd9676b687edf0c341038a2d8932d47,A Charge Domain SRAM Compute-in-Memory Macro With C-2C Ladder-Based 8-Bit MAC Unit in 22-nm FinFET Process for Edge Inference,https://doi.org/10.1109/JSSC.2022.3232601,144
+ieee,CIM,2023,248f4b0b69e7bef5f77123f92240931436b1594c,A 4nm 6163-TOPS/W/b $\mathbf{4790-TOPS/mm^{2}/b}$ SRAM Based Digital-Computing-in-Memory Macro Supporting Bit-Width Flexibility and Simultaneous MAC and Weight Update,https://doi.org/10.1109/ISSCC42615.2023.10067555,124
+ieee,CIM,2023,aa34e35bd7e28c9fbfe2521692413db706dde165,A 22nm 832Kb Hybrid-Domain Floating-Point SRAM In-Memory-Compute Macro with 16.2-70.2TFLOPS/W for High-Accuracy AI-Edge Devices,https://doi.org/10.1109/ISSCC42615.2023.10067527,113
+ieee,RISCV,2023,9c7488ea511900a7ce06f3d20921e8c179e0b21d,DIANA: An End-to-End Hybrid DIgital and ANAlog Neural Network SoC for the Edge,https://doi.org/10.1109/JSSC.2022.3214064,69
+ieee,RISCV,2023,71adc8dd10de19ecaa01dfb9299e823aa5ae14ed,CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications With Improved Domain-Specific Evaluation Metric and Learning Strategies,https://doi.org/10.1109/TCAD.2023.3287970,64
+ieee,RISCV,2023,c0b9058a62089dce6c02a4855c6e2a1da7d57ecc,TinyVers: A Tiny Versatile System-on-Chip With State-Retentive eMRAM for ML Inference at the Extreme Edge,https://doi.org/10.1109/JSSC.2023.3236566,43
+ieee,AIAccel,2023,fded702eeb473b1fa1eb95253c2aec05d225e970,Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators,https://doi.org/10.1109/HPCA57654.2024.00022,81
+ieee,AIAccel,2024,4a6a8183652d8f4274f6c219b2f36efb9246db0d,Photonic-Electronic Integrated Circuits for High-Performance Computing and AI Accelerators,https://doi.org/10.1109/JLT.2024.3427716,77
+ieee,AIAccel,2023,bd5c24ec7d3c91648fb0beec6508a5302823f97b,X-Former: In-Memory Acceleration of Transformers,https://doi.org/10.1109/TVLSI.2023.3282046,76
+ieee,DTCO,2024,42380f9203c1d9bfc17340d68eb1ec8308aaa5c1,High-Bandwidth Chiplet Interconnects for Advanced Packaging Technologies in AI/ML Applications: Challenges and Solutions,https://doi.org/10.1109/ojsscs.2024.3506694,64
+ieee,DTCO,2023,66b5a751a30d42963d13e1005f5df2e4650abbd9,"Wafer-Scale Computing: Advancements, Challenges, and Future Perspectives [Feature]",https://doi.org/10.1109/MCAS.2024.3349669,52
+ieee,DTCO,2023,b9f79c568252cca5db4a592b7c3c1125f6936eab,Fast and Expandable ANN-Based Compact Model and Parameter Extraction for Emerging Transistors,https://doi.org/10.1109/JEDS.2023.3246477,35
+ieee,CFET,2023,6bd4ed48a5f3b7492273ea3b0d1ee944b38925a0,Complementary Field-Effect Transistor (CFET) Demonstration at 48nm Gate Pitch for Future Logic Technology Scaling,https://doi.org/10.1109/iedm45741.2023.10413672,67
+ieee,CFET,2023,75bd30ff52e87c4f2ed5ab15eb5d3d556b323d75,"Nanosheet-based Complementary Field-Effect Transistors (CFETs) at 48nm Gate Pitch, and Middle Dielectric Isolation to enable CFET Inner Spacer Formation and Multi-Vt Patterning",https://doi.org/10.23919/vlsitechnologyandcir57934.2023.10185218,62
+ieee,CFET,2023,fd5e00dabda90ffd7b156f8b46cc19c3c4a4e9c2,Demonstration of a Stacked CMOS Inverter at 60nm Gate Pitch with Power Via and Direct Backside Device Contacts,https://doi.org/10.1109/iedm45741.2023.10413678,44
+ieee,3DIC,2023,afe9231fe4235b4b20d4c417a37a1e22f3f02179,A 192-Gb 12-High 896-GB/s HBM3 DRAM With a TSV Auto-Calibration Scheme and Machine-Learning-Based Layout Optimization,https://doi.org/10.1109/JSSC.2022.3193354,114
+ieee,3DIC,2023,6602cd9718666e05dd59c276d68816ad6cf6fae6,CoWoS Architecture Evolution for Next Generation HPC on 2.5D System in Package,https://doi.org/10.1109/ECTC51909.2023.00174,90
+ieee,3DIC,2023,469fce3964fd6c2083b10fa35db5e4c9cbc92415,Micro-Transfer Printing for Heterogeneous Si Photonic Integrated Circuits,https://doi.org/10.1109/JSTQE.2022.3222686,84
+ieee,MultiPatterning,2023,dda4f9fc3cd68fc80d1b66b3a99701862261968d,Machine Learning-Based Edge Placement Error Analysis and Optimization: A Systematic Review,https://doi.org/10.1109/TSM.2022.3217326,12
+ieee,MultiPatterning,2023,1287d60fda48e8c85e816a6c35284a0a3d0c03d2,Two-metal-level semi-damascene interconnect at metal pitch 18 nm and aspect-ratio 6 routed using fully self-aligned via,https://doi.org/10.1109/iedm45741.2023.10413784,10
+ieee,MultiPatterning,2024,e35c4eb2368b2c01bb8f44faf96291d5684d94c9,Airgap Integration in MP18 Two-Level Semi-damascene Interconnects with Fully Self-aligned Vias,https://doi.org/10.1109/IITC61274.2024.10732649,7
+ieee,Neuromorphic,2023,1d622b78b71d072e43beb10d9c52c52c9d1053d5,Locally Active Memristor-Based Neuromorphic Circuit: Firing Pattern and Hardware Experiment,https://doi.org/10.1109/TCSI.2023.3276983,129
+ieee,Neuromorphic,2023,2abffb753d9b27aff6b4d0e9bab0f937bdce4a08,Backpropagation-Based Learning Techniques for Deep Spiking Neural Networks: A Survey,https://doi.org/10.1109/TNNLS.2023.3263008,115
+ieee,Neuromorphic,2023,0607e78b1b560847378055283c6d90d5dd73df7e,GET: Group Event Transformer for Event-Based Vision,https://doi.org/10.1109/ICCV51070.2023.00555,112
+ieee,MRAM,2023,d694152d079e31c9ab39ea82e499fd0e7b8570a8,33.4 A 28nm 2Mb STT-MRAM Computing-in-Memory Macro with a Refined Bit-Cell and 22.4 - 41.5TOPS/W for AI Inference,https://doi.org/10.1109/ISSCC42615.2023.10067339,84
+ieee,MRAM,2024,7c25b4e198da60f9333487fd0f4276f90530fe98,34.8 A 22nm 16Mb Floating-Point ReRAM Compute-in-Memory Macro with 31.2TFLOPS/W for AI Edge Devices,https://doi.org/10.1109/ISSCC49657.2024.10454468,71
+ieee,MRAM,2023,b9bb1f7b3e38c373943d9e6042c96e6334a77d66,"33.1 A 16nm 32Mb Embedded STT-MRAM with a 6ns Read-Access Time, a 1M-Cycle Write Endurance, 20-Year Retention at 150°C and MTJ-OTP Solutions for Magnetic Immunity",https://doi.org/10.1109/ISSCC42615.2023.10067837,60
+ieee,Cryo,2023,ddbfdeb075bfacf469de3ac4e84c03309c67fd9d,Understanding the Excess 1/f Noise in MOSFETs at Cryogenic Temperatures,https://doi.org/10.1109/TED.2022.3233551,43
+ieee,Cryo,2023,579b4ba625bc6a48da920d67f2e490bfb4c29b64,Cryogenic CMOS for Quantum Processing: 5-nm FinFET-Based SRAM Arrays at 10 K,https://doi.org/10.1109/TCSI.2023.3278351,40
+ieee,Cryo,2023,a9737cf3a91b8ee42a4331ec1b78ee6782775674,A Cryo-CMOS PLL for Quantum Computing Applications,https://doi.org/10.1109/JSSC.2022.3223629,37
+ieee,HybridBonding,2023,118d586e2a0149d21daaa77783d07fe9277c90cd,Recent Advances and Trends in Cu–Cu Hybrid Bonding,https://doi.org/10.1109/TCPMT.2023.3265529,107
+ieee,HybridBonding,2025,58a3c7b4726b527cccf535a5fbe3a2b3e51226c1,Current Advances and Outlooks in Hybrid Bonding,https://doi.org/10.1109/TCPMT.2025.3533926,44
+ieee,HybridBonding,2024,dfdcacb823e17cf44334ef68ec1d1576775bbb84,State of the Art of Cu–Cu Hybrid Bonding,https://doi.org/10.1109/TCPMT.2024.3367985,38
+ieee,TFET,2024,e88b525b634984882640c4d426fd5fdd937a5713,A Novel T-Shape Channel With an Inverted-T Nano-Cavity Label-Free Detection Using Si:HfO2 Ferroelectric DGDM-JLTFET as a Biosensor—A Simulation Study,https://doi.org/10.1109/JSEN.2024.3459100,33
+ieee,TFET,2023,bc95290fefea93e22f038ba7b3745743ebdcbdb9,Modeling and Performance Analysis of a Split-Gate T-Shape Channel DM DPDG-TFET Label-Free Biosensor,https://doi.org/10.1109/JSEN.2022.3224036,30
+ieee,TFET,2023,03d5194962fa3a9b4d76775debe115ced62e69bc,Transport Properties of 5-nm Tunnel Field-Effect Transistor for High-Performance Switches Decorated With Blue Phosphorene and Transition Metals,https://doi.org/10.1109/TED.2023.3307503,28
+ieee,CNT,2025,c320fac609b01d01978ee074b1fff2df7fee8fbd,In-MRAM Computing Based on Complementary-Sensing Time-Based Readout Circuit Using Hybrid VGSOT-MTJ/GAA-CNTFET,https://doi.org/10.1109/TCSII.2024.3460169,34
+ieee,CNT,2023,8bbd54329ede1aaf61748b8ecc0396c523a5a7af,High-Performance and Robust Spintronic/CNTFET-Based Binarized Neural Network Hardware Accelerator,https://doi.org/10.1109/TETC.2022.3202113,30
+ieee,CNT,2024,20033339dffc20b808b96ded7bfa78ca55748697,A High Throughput In-MRAM-Computing Scheme Using Hybrid p-SOT-MTJ/GAA-CNTFET,https://doi.org/10.1109/TCSI.2023.3341608,26
+ieee,DRAM,2023,87b712c0d8638c9db84ed414aa48e9bd55e3e895,"Ramulator 2.0: A Modern, Modular, and Extensible DRAM Simulator",https://doi.org/10.1109/LCA.2023.3333759,185
+ieee,DRAM,2023,cfc0d3ab06bd1777ce825ae3325bd989a0d51c8d,NVDRAM: A 32Gb Dual Layer 3D Stacked Non-volatile Ferroelectric Memory with Near-DRAM Performance for Demanding AI Workloads,https://doi.org/10.1109/iedm45741.2023.10413848,117
+ieee,DRAM,2023,afe9231fe4235b4b20d4c417a37a1e22f3f02179,A 192-Gb 12-High 896-GB/s HBM3 DRAM With a TSV Auto-Calibration Scheme and Machine-Learning-Based Layout Optimization,https://doi.org/10.1109/JSSC.2022.3193354,114
+ieee,CPO,2023,469fce3964fd6c2083b10fa35db5e4c9cbc92415,Micro-Transfer Printing for Heterogeneous Si Photonic Integrated Circuits,https://doi.org/10.1109/JSTQE.2022.3222686,84
+ieee,CPO,2024,4a6a8183652d8f4274f6c219b2f36efb9246db0d,Photonic-Electronic Integrated Circuits for High-Performance Computing and AI Accelerators,https://doi.org/10.1109/JLT.2024.3427716,77
+ieee,CPO,2023,889b3524be61dae644495a15d1bf12ef6e6df7f3,2.5D Heterogeneous Integration for Silicon Photonics Engines in Optical Transceivers,https://doi.org/10.1109/JSTQE.2022.3214418,39
+ieee,BSPDN,2023,5ed5561bee53f6218ea12c58586dd8a3545c6f84,Intel PowerVia Technology: Backside Power Delivery for High Density and High-Performance Computing,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185208,64
+ieee,BSPDN,2024,0d22bf1315025d9eead4f077e544129e0b828379,NeuroSim V1.4: Extending Technology Support for Digital Compute-in-Memory Toward 1nm Node,https://doi.org/10.1109/TCSI.2024.3362822,50
+ieee,BSPDN,2023,fd5e00dabda90ffd7b156f8b46cc19c3c4a4e9c2,Demonstration of a Stacked CMOS Inverter at 60nm Gate Pitch with Power Via and Direct Backside Device Contacts,https://doi.org/10.1109/iedm45741.2023.10413678,44
+ieee,EUV,2024,2c79f51a8df8028287ea1dc761875b39d00a8849,Semiconductor Industry Outlook and New Technology Frontiers,https://doi.org/10.1109/IEDM50854.2024.10873484,28
+ieee,EUV,2024,1c87830146b52c43896ab0e1a84fe0bb71974925,Exposure Tool Development Toward Advanced EUV Lithography: A Journey of 40 Years Driving Moore’s Law,https://doi.org/10.1109/MED.2023.3337129,20
+ieee,EUV,2023,d7dab0c3ab65b619da46f426788edc61ca1d0a3e,Integration of a Stacked Contact MOL for Monolithic CFET,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185260,17
+ieee,Chiplet,2025,f042f07247a3fa8fb0b49202b08488dd33b3b7da,"A 3D Memristive Cubic Map With Dual Discrete Memristors: Design, Implementation, and Application in Image Encryption",https://doi.org/10.1109/TCSVT.2025.3545868,154
+ieee,Chiplet,2024,60c8b1211a855849aea38a290aec6b8fe28fca9e,"Design, Hardware Implementation, and Application in Video Encryption of the 2-D Memristive Cubic Map",https://doi.org/10.1109/JIOT.2024.3376572,81
+ieee,Chiplet,2023,fded702eeb473b1fa1eb95253c2aec05d225e970,Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators,https://doi.org/10.1109/HPCA57654.2024.00022,81
+ieee,Ga2O3,2023,cc384c95d7ca751cb223d4dea78330558d1b93eb,2.5 kV Vertical Ga2O3 Schottky Rectifier With Graded Junction Termination Extension,https://doi.org/10.1109/LED.2022.3229222,71
+ieee,Ga2O3,2023,ef19f3c225f56aaa29c2fc5a23ecc926226c34c4,Overview of Wide/Ultrawide Bandgap Power Semiconductor Devices for Distributed Energy Resources,https://doi.org/10.1109/JESTPE.2023.3277828,64
+ieee,Ga2O3,2023,06238070f2cbadc83d9089be44c0ebe729f20586,10-kV Ga2O3 Charge-Balance Schottky Rectifier Operational at 200 °C,https://doi.org/10.1109/LED.2023.3287887,62
+ieee,CoWoS,2023,6602cd9718666e05dd59c276d68816ad6cf6fae6,CoWoS Architecture Evolution for Next Generation HPC on 2.5D System in Package,https://doi.org/10.1109/ECTC51909.2023.00174,90
+ieee,CoWoS,2023,976c4ad7cbe5fa3dbcaa3fe9298f63b1173f77d2,A 4nm 32Gb/s 8Tb/s/mm Die-to-Die Chiplet Using NRZ Single-Ended Transceiver With Equalization Schemes And Training Techniques,https://doi.org/10.1109/ISSCC42615.2023.10067477,34
+ieee,CoWoS,2024,667e634872ed641a0bf52aa53b525dbd836f4812,Next Generation Large Size High Interconnect Density CoWoS-R Package,https://doi.org/10.1109/ECTC51529.2024.00049,24
+ieee,Photonic-computing,2024,4a6a8183652d8f4274f6c219b2f36efb9246db0d,Photonic-Electronic Integrated Circuits for High-Performance Computing and AI Accelerators,https://doi.org/10.1109/JLT.2024.3427716,77
+ieee,Photonic-computing,2024,73ad4378d8da945edce04da215d4c71146adc340,Recent Advancements in Mode Division Multiplexing for Communication and Computation in Silicon Photonics,https://doi.org/10.1109/JLT.2024.3412391,37
+ieee,Photonic-computing,2023,0300b3bfb355747ad99f6e1d9b92f63f78833beb,A Survey on Optical Phase-Change Memory: The Promise and Challenges,https://doi.org/10.1109/ACCESS.2023.3241146,34
+ieee,OxideSemi,2023,6d197e4ec64243401141e6b3f0364720d6070aa5,Lowest IOFF < 3×10−21 A/μm in capacitorless DRAM achieved by Reactive Ion Etch of IGZO-TFT,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185398,61
+ieee,OxideSemi,2023,9f1337e09fe9a62627eeb20829941e2aa91460ce,First Demonstration of Stacked 2T0C-DRAM Bit-Cell Constructed by Two-Layers of Vertical Channel-All-Around IGZO FETs Realizing 4F2 Area Cost,https://doi.org/10.1109/iedm45741.2023.10413790,43
+ieee,OxideSemi,2024,ded16e10c2c558f4d56c45260548444b26eb47ce,Amorphous Oxide Semiconductors for Monolithic 3D Integrated Circuits,https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631324,36
+ieee,PCM,2023,b9bb1f7b3e38c373943d9e6042c96e6334a77d66,"33.1 A 16nm 32Mb Embedded STT-MRAM with a 6ns Read-Access Time, a 1M-Cycle Write Endurance, 20-Year Retention at 150°C and MTJ-OTP Solutions for Magnetic Immunity",https://doi.org/10.1109/ISSCC42615.2023.10067837,60
+ieee,PCM,2023,0300b3bfb355747ad99f6e1d9b92f63f78833beb,A Survey on Optical Phase-Change Memory: The Promise and Challenges,https://doi.org/10.1109/ACCESS.2023.3241146,34
+ieee,PCM,2023,b5dc57295f603a643a97e5f80a31174088372e0f,Combined HW/SW Drift and Variability Mitigation for PCM-Based Analog In-Memory Computing for Neural Network Applications,https://doi.org/10.1109/JETCAS.2023.3241750,31
+ieee,HighNA,2024,1c87830146b52c43896ab0e1a84fe0bb71974925,Exposure Tool Development Toward Advanced EUV Lithography: A Journey of 40 Years Driving Moore’s Law,https://doi.org/10.1109/MED.2023.3337129,20
+ieee,HighNA,2023,3fc7e216150e63b4f61d42ab0a7d1ec422551786,The Moore's Law Machine: The Next Trick to Tinier Transistors is High-Numerical-Aperture EUV Lithography,https://doi.org/10.1109/mspec.2023.10234175,13
+ieee,HighNA,2023,cd31f21cf462bd11ad00574feab8d47b2245a3ff,Scaling opportunities for Gate-All-Around: A patterning perspective,https://doi.org/10.1109/iedm45741.2023.10413878,10
+ieee,FanOut,2023,6602cd9718666e05dd59c276d68816ad6cf6fae6,CoWoS Architecture Evolution for Next Generation HPC on 2.5D System in Package,https://doi.org/10.1109/ECTC51909.2023.00174,90
+ieee,FanOut,2023,bc9b89189016fa76d25fbd3f8ede97997c65e7cd,A K-Band Hybrid-Packaged Temperature-Compensated Phased-Array Receiver and Integrated Antenna Array,https://doi.org/10.1109/TMTT.2022.3225289,56
+ieee,FanOut,2024,afc53c5fc327c7de66fd262ab68e8c2325e29747,"2nm Platform Technology Featuring Energy-Efficient Nanosheet Transistors and Interconnects Co-Optimized with 3DIC for AI, HPC and Mobile SoC Applications",https://doi.org/10.1109/IEDM50854.2024.10873475,55
+ieee,Airgap,2024,de61fc51495d8bbfa725d906195a007a611b9de1,Experimental Thermal Characterization of Thin Film low-k Dielectric Materials,https://doi.org/10.1109/ITherm55375.2024.10709545,8
+ieee,Airgap,2024,422e8c4bcb87f4a0a65938c3cb47b9f532b9148b,"Material, Process and System Level Analysis for Parasitic Reduction of Next Generation Logic Technology in Conjunction with Backside Power Delivery",https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631438,3
+ieee,Airgap,2025,eca275ebad6aff3cc3746ccd31ccab97422ef4a7,Thermal Mitigation Strategy for 3D Stacked Devices: Leveraging Dense BN Low-k Dielectrics with Improved Thermal Conductivity,https://doi.org/10.1109/IEDM50572.2025.11353671,1
+ieee,2D-channel,2023,02a99415779c5ca213191c640736650d904e80b9,Monolayer-MoS2 Stacked Nanosheet Channel with C-type Metal Contact,https://doi.org/10.1109/iedm45741.2023.10413837,24
+ieee,2D-channel,2023,008c34bccb68898c7e6ae86e279e2879e4d4905b,Wafer-scale CVD Monolayer WSe2 p-FETs with Record-high 727 μA/μm Ion and 490 μS/ μm gmax via Hybrid Charge Transfer and Molecular Doping,https://doi.org/10.1109/iedm45741.2023.10413736,21
+ieee,2D-channel,2024,3a59cb6f0dece9be8df7863bef5dd10ed2e80e5e,Record Performance in GAA 2D NMOS and PMOS Using Monolayer MoS2 and WSe2 with Scaled Contact and Gate Length,https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631395,18
+ieee,RuMo,2023,11bb8afd281793d39333870d09c3db62926488ea,A Comprehensive Modeling Platform for Interconnect Technologies,https://doi.org/10.1109/TED.2023.3261828,18
+ieee,RuMo,2023,ceb8f2ae71fc211efeb5b768a8ba80e925ee5507,10 kV SiC MOSFET Power Module with Double-Sided Jet-Impingement Cooling,https://doi.org/10.1109/APEC43580.2023.10131433,15
+ieee,RuMo,2023,1287d60fda48e8c85e816a6c35284a0a3d0c03d2,Two-metal-level semi-damascene interconnect at metal pitch 18 nm and aspect-ratio 6 routed using fully self-aligned via,https://doi.org/10.1109/iedm45741.2023.10413784,10
+ieee,3DNAND,2023,b0480518a70178e6485215ce2e5b132698a8eb89,Ongoing Evolution of DRAM Scaling via Third Dimension -Vertically Stacked DRAM -,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185290,69
+ieee,3DNAND,2023,714383dacfac7da115cd1b76acc8734a77c32f14,Comprehensive Design Guidelines of Gate Stack for QLC and Highly Reliable Ferroelectric VNAND,https://doi.org/10.1109/iedm45741.2023.10413820,66
+ieee,3DNAND,2023,3fc841474a794357446d62e95b0837064101e9a4,QLC Programmable 3D Ferroelectric NAND Flash Memory by Memory Window Expansion using Cell Stack Engineering,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185294,66
+ieee,CompLitho,2023,a16d7e6c4ca689c171581d0cf8a26225b261bef6,A Novel Adaptive SMO-Based Simultaneous Diagnosis Method for IGBT Open-Circuit Faults and Current Sensor Incipient Faults of Inverters in PMSM Drives for Electric Vehicles,https://doi.org/10.1109/TIM.2023.3305653,67
+ieee,CompLitho,2023,4eb59714d61f455ca2e9cf323569dcd9f488481f,Efficient ILT via Multi-level Lithography Simulation,https://doi.org/10.1109/DAC56929.2023.10247704,42
+ieee,CompLitho,2024,864a65f61211e80c27afed1a5a8b95e69301cd15,L2O-ILT: Learning to Optimize Inverse Lithography Techniques,https://doi.org/10.1109/TCAD.2023.3323164,30
+ieee,DSA,2023,d76ad3ad60d91e489bb0c158e37b49cfd0597f6c,Contact Hole Multiplication by Directed Self-Assembly of Block Copolymer with Homopolymer-Blending,https://doi.org/10.1109/IWAPS60466.2023.10366067,4
+ieee,DSA,2023,3e2fae920646b1f02ba65539f2fe69e8b5d81e5f,Graph-Based Simultaneous Placement and Routing for Two-Dimensional Directed Self-Assembly Technology,https://doi.org/10.1109/DAC56929.2023.10247804,2
+ieee,DSA,2023,a4437af996299edbf2ade5901c3024c5c0c368cb,Lamellar DSA-aware Detailed Routing Considering Double Patterning and Short Template Minimization,https://doi.org/10.1109/DAC56929.2023.10247724,1
+ieee,UCIe,2024,baa4923ec93420af6416f021a4249fce20f084df,DRAMScope: Uncovering DRAM Microarchitecture and Characteristics by Issuing Memory Commands,https://doi.org/10.1109/ISCA59077.2024.00083,35
+ieee,UCIe,2023,51fb07207b398b40dab30db54a00c03b90713099,A High-Speed Low-Noise Comparator With Auxiliary-Inverter-Based Common Mode-Self-Regulation for Low-Supply-Voltage SAR ADCs,https://doi.org/10.1109/TVLSI.2022.3224237,32
+ieee,UCIe,2023,a63b24aa6ae4b209e48a28b23f327a1113b369a7,System on a Package Innovations With Universal Chiplet Interconnect Express (UCIe) Interconnect,https://doi.org/10.1109/MM.2023.3235770,23
+ieee,HBM,2023,87b712c0d8638c9db84ed414aa48e9bd55e3e895,"Ramulator 2.0: A Modern, Modular, and Extensible DRAM Simulator",https://doi.org/10.1109/LCA.2023.3333759,185
+ieee,HBM,2023,afe9231fe4235b4b20d4c417a37a1e22f3f02179,A 192-Gb 12-High 896-GB/s HBM3 DRAM With a TSV Auto-Calibration Scheme and Machine-Learning-Based Layout Optimization,https://doi.org/10.1109/JSSC.2022.3193354,114
+ieee,HBM,2024,7e96f0c0f357261dcfac11daf554f169f9ad1806,LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference,https://doi.org/10.1109/ISCA59077.2024.00082,92
+ieee,GlassSubstrate,2023,2c88472fefb333f4c988be20468d0c425eb735a9,Antenna With Embedded Die in Glass Interposer for 6G Wireless Applications,https://doi.org/10.1109/TCPMT.2023.3251725,38
+ieee,GlassSubstrate,2023,545e3dd6b1f1ce07c1fb9f07e87e7cb93b3b6110,Glass Platform for Co-Packaged Optics,https://doi.org/10.1109/JSTQE.2023.3247245,35
+ieee,GlassSubstrate,2024,5e5575fd62c1312e0457020e19fca0b795c05046,Heterogeneous Integration of Diamond-on-Chip-on-Glass Interposer for Efficient Thermal Management,https://doi.org/10.1109/LED.2024.3351990,34
+ieee,MLforEDA,2023,50ab9a6e2d6305255535ef9559c2b07398cf826b,Hier-RTLMP: A Hierarchical Automatic Macro Placer for Large-Scale Complex IP Blocks,https://doi.org/10.1109/TCAD.2023.3346284,30
+ieee,MLforEDA,2023,9f53e086ba8892e3d6ee2f4efb839f1698144015,Stronger Mixed-Size Placement Backbone Considering Second-Order Information,https://doi.org/10.1109/ICCAD57390.2023.10323700,22
+ieee,MLforEDA,2024,806c53f5e5ed5589858b0da7d76c78a9ef6bb578,IncreMacro: Incremental Macro Placement Refinement,https://doi.org/10.1109/TCAD.2025.3531776,18
+ieee,SiC,2023,5d5e9a0461fd45da9a8c51f6fab5bfe27b2bce78,"Stability, Reliability, and Robustness of GaN Power Devices: A Review",https://doi.org/10.1109/TPEL.2023.3266365,374
+ieee,SiC,2023,49169e88eaf761a49a90ac9b47991b683108aacf,Review on the Reliability Mechanisms of SiC Power MOSFETs: A Comparison Between Planar-Gate and Trench-Gate Structures,https://doi.org/10.1109/TPEL.2023.3265864,114
+ieee,SiC,2023,68828f959e6a3868437b5a385f957b71b20a28e9,Silicon Carbide Power Devices: Progress and Future Outlook,https://doi.org/10.1109/JESTPE.2023.3258344,101
+ieee,NIL,2024,1ade3dbb370f7036f9b8208f5a4aa46bd5f9d40d,Sliding Mode Iterative Learning Control With Iteration-Dependent Parameter Learning Mechanism for Nonlinear Systems and Its Application,https://doi.org/10.1109/TASE.2023.3336933,21
+ieee,NIL,2024,eb4b74087e6f5cccb14069cddf162438b5612739,"Advances, Application and Challenges of Lithography Techniques",https://doi.org/10.1109/ICACS60934.2024.10473245,11
+ieee,NIL,2024,75957f2d5b63a438ef4284c3e74188565b1fd1cf,Scalable Fabrication of 3D Optical Re-distribution for Co-Packaged Optics using an Developed Nanoimprint Stepper,https://doi.org/10.1109/ECTC51529.2024.00229,6
+ieee,FeRAM,2023,cfc0d3ab06bd1777ce825ae3325bd989a0d51c8d,NVDRAM: A 32Gb Dual Layer 3D Stacked Non-volatile Ferroelectric Memory with Near-DRAM Performance for Demanding AI Workloads,https://doi.org/10.1109/iedm45741.2023.10413848,117
+ieee,FeRAM,2023,94580682a97b27f150d0c998f627a24d0f103e57,A highly reliable 1.8 V 1 Mb Hf0.5Zr0.5O2-based 1T1C FeRAM Array with 3-D Capacitors,https://doi.org/10.1109/iedm45741.2023.10413661,29
+ieee,FeRAM,2023,e578d9573c9512319745c2642c9926bc0b18cffa,Effect of Carrier Transport Process on Tunneling Electroresistance in Ferroelectric Tunnel Junction,https://doi.org/10.1109/LED.2022.3223340,24
+ieee,SiQubit,2023,e73cc3c7f5ac87ffea9176ed8f74c10da1f81acf,A Polar-Modulation-Based Cryogenic Qubit State Controller in 28nm Bulk CMOS,https://doi.org/10.1109/ISSCC42615.2023.10067495,21
+ieee,SiQubit,2023,23fd76a09fb53c019f3955c82d1d6bb2989f8c2d,Milli-Kelvin Analysis Revealing the Role of Band-edge States in Cryogenic MOSFETs,https://doi.org/10.1109/iedm45741.2023.10413872,15
+ieee,SiQubit,2023,896d89189a30f269b523c52abece32403736959c,Comprehensive 300 mm process for Silicon spin qubits with modular integration,https://doi.org/10.23919/VLSITechnologyandCir57934.2023.10185272,11
+arxiv,FinFET,2024,b5617e9db9fad430bb947e72df7c1f35f8ca1616,BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration,https://doi.org/10.1109/HPCA57654.2024.00062,52
+arxiv,FinFET,2023,363d22c1ad4bffe6d69e65fc864945cfd22b87f9,Automorphism Ensemble Polar Code Decoders for 6G URLLC,https://doi.org/10.48550/arXiv.2303.01235,37
+arxiv,FinFET,2023,ec8219ed8c0f6753905ea545e38a222f34bf3082,Using Cryogenic CMOS Control Electronics to Enable a Two-Qubit Cross-Resonance Gate,https://doi.org/10.1103/prxquantum.5.010326,35
+arxiv,Cryo,2023,ec8219ed8c0f6753905ea545e38a222f34bf3082,Using Cryogenic CMOS Control Electronics to Enable a Two-Qubit Cross-Resonance Gate,https://doi.org/10.1103/prxquantum.5.010326,35
+arxiv,Cryo,2025,7e3852e75c25aa7783126be510dc271489defaac,A tri-linear quantum dot architecture for semiconductor spin qubits,https://doi.org/10.1038/s41598-026-42575-z,14
+arxiv,Cryo,2024,1e56cd83b47e3c0ba1495ccc1c886aa9c1a88a72,Cryogenic behavior of high-permittivity gate dielectrics: The impact of atomic layer deposition temperature and the lithographic patterning method,https://doi.org/10.1063/5.0250428,10
+arxiv,2D-channel,2024,1bc29d991abdb974ef239d30bc2fb7903189afdb,Superconductivity and quantized anomalous Hall effect in rhombohedral graphene,https://doi.org/10.1038/s41586-025-08621-y,96
+arxiv,2D-channel,2024,49f55db6403ff070cfb27004433beca5475d95ae,CMOS-compatible strain engineering for monolayer semiconductor transistors,https://doi.org/10.1038/s41928-024-01244-7,52
+arxiv,2D-channel,2023,0c5f829a611f0ab3609c8fc9e8c284587d5cca5f,Biaxial Tensile Strain Enhances Electron Mobility of Monolayer Transition Metal Dichalcogenides.,https://doi.org/10.1021/acsnano.3c08996,51
+arxiv,AIAccel,2024,505641490f56e0a0b67757a1f3a157bf5a62e97d,NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing,https://doi.org/10.1145/3620666.3651380,180
+arxiv,AIAccel,2023,50a1e77cd336579a5ccdd808eda66a34d3b58bbb,A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms,https://doi.org/10.1145/3729215,161
+arxiv,AIAccel,2023,124f60073c066e049cf8eec9101cb127c30fd209,"Photonics for Neuromorphic Computing: Fundamentals, Devices, and Opportunities",https://doi.org/10.1002/adma.202312825,101
+arxiv,FeFET,2023,f5e604ef602e73ad81236f5e315cf8f123455c33,Reconfigurable Multifunctional van der Waals Ferroelectric Devices and Logic Circuits.,https://doi.org/10.1021/acsnano.3c07952,98
+arxiv,FeFET,2023,8e73ae2449002c65503dadf7120452d41de439c0,Ferroelectric compute-in-memory annealer for combinatorial optimization problems,https://doi.org/10.1038/s41467-024-46640-x,55
+arxiv,FeFET,2023,b97d348bf65286ea26461623a08fea5c0cf978f3,Nonvolatile optical phase shift in ferroelectric hafnium zirconium oxide,https://doi.org/10.1038/s41467-024-47893-2,31
+arxiv,FeRAM,2023,910a2c440e700a579412f0dca0646c03fc10d5d2,Accessible chemical space for metal nitride perovskites,https://doi.org/10.1039/D3SC02171H,15
+arxiv,FeRAM,2023,05e0cd9bf66dbeb4c9e7a2040f12335028d18f62,Back‐End and Flexible Substrate Compatible Analog Ferroelectric Field‐Effect Transistors for Accurate Online Training in Deep Neural Network Accelerators,https://doi.org/10.1002/aisy.202300391,13
+arxiv,FeRAM,2025,5518fd1bea7aa92febb85c3e0e58151eea6dc633,Indium selenides for next-generation low-power computing devices,https://doi.org/10.1038/s44287-025-00251-w,12
+arxiv,Neuromorphic,2023,30c21df10d71a6262c7f444797a1ed15a26aaf0e,SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence,https://doi.org/10.1126/sciadv.adi1480,558
+arxiv,Neuromorphic,2023,5682daa63e1ffa2153384ba40a4a204b2bdc5446,Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks,https://doi.org/10.48550/arXiv.2303.04347,308
+arxiv,Neuromorphic,2023,eec79272429f1a5afe55ca59945c1a98050f3a07,Spike-based dynamic computing with asynchronous sensing-computing neuromorphic chip,https://doi.org/10.1038/s41467-024-47811-6,206
+arxiv,RRAM,2023,bf5b3ae6380bfd4a4cbe682a5dd08e43c44c0732,Nanofluidic logic with mechano–ionic memristive switches,https://doi.org/10.1038/s41928-024-01137-9,129
+arxiv,RRAM,2024,24411be9cbb7ca4bc27fb6e3285601405e39061f,Single neuromorphic memristor closely emulates multiple synaptic mechanisms for energy efficient neural networks,https://doi.org/10.1038/s41467-024-51093-3,115
+arxiv,RRAM,2023,5d0a9d1c872771445b30600d030bd5de579b5194,Brain-inspired computing with fluidic iontronic nanochannels,https://doi.org/10.1073/pnas.2320242121,111
+arxiv,CPO,2023,9630d918ef3cde06f39f7f333c8737e46032a504,Roadmapping the next generation of silicon photonics,https://doi.org/10.1038/s41467-024-44750-0,733
+arxiv,CPO,2024,46062a1225c3f9f178530020cdc35051e5682037,A manufacturable platform for photonic quantum computing,https://doi.org/10.1038/s41586-025-08820-7,328
+arxiv,CPO,2023,3f6945789beced094920ccfd9eaa53cbe042c0bd,Inverse-designed low-index-contrast structures on a silicon photonics platform for vector–matrix multiplication,https://doi.org/10.1038/s41566-024-01394-2,103
+arxiv,3DIC,2023,4184651df8cc40e12283061f8bc39e11fdd3ee75,"Foundry manufacturing of tight-confinement, dispersion-engineered, ultralow-loss silicon nitride photonic integrated circuit",https://doi.org/10.1364/PRJ.486379,80
+arxiv,3DIC,2023,f8772eecfbbe38083c028bd65bdcfca6cb19d137,GaAs nano-ridge laser diodes fully fabricated in a 300-mm CMOS pilot line,https://doi.org/10.1038/s41586-024-08364-2,79
+arxiv,3DIC,2023,2a694aecef19315a0a4fd2ba605f120b9dd79be4,DeepOHeat: Operator Learning-based Ultra-fast Thermal Simulation in 3D-IC Design,https://doi.org/10.1109/DAC56929.2023.10247998,70
+arxiv,GaN,2023,0e1c60dc4119589bbbf02da26f73f4fd6330be4b,Revolutionizing Cyber Threat Detection With Large Language Models: A Privacy-Preserving BERT-Based Lightweight Model for IoT/IIoT Devices,https://doi.org/10.1109/ACCESS.2024.3363469,269
+arxiv,GaN,2023,2015ebd044fa0c13e1db5eae121bf0013b665890,In‐Grain Ferroelectric Switching in Sub‐5 nm Thin Al0.74Sc0.26N Films at 1 V,https://doi.org/10.1002/advs.202302296,88
+arxiv,GaN,2023,0f8875c53fb449c7ec113d31c985eb6ae7508c58,Demonstration and STEM Analysis of Ferroelectric Switching in MOCVD‐Grown Single Crystalline Al0.85Sc0.15N,https://doi.org/10.1002/apxr.202300113,54
+arxiv,Node,2023,2015ebd044fa0c13e1db5eae121bf0013b665890,In‐Grain Ferroelectric Switching in Sub‐5 nm Thin Al0.74Sc0.26N Films at 1 V,https://doi.org/10.1002/advs.202302296,88
+arxiv,Node,2023,30d3f2e0e69a85bac8372071d0d95ed726b3042f,Progress Toward Superconductor Electronics Fabrication Process With Planarized NbN and NbN/Nb Layers,https://doi.org/10.1109/TASC.2023.3246430,25
+arxiv,Node,2024,01da7082c1a063548590f0dbaf74d04280c6b01b,DRC-Coder: Automated DRC Checker Code Generation Using LLM Autonomous Agent,https://doi.org/10.1145/3698364.3705347,20
+arxiv,EUV,2024,a4e515bc6239a0b3911d0188957117ef794ad3d6,12-Spin-Qubit Arrays Fabricated on a 300 mm Semiconductor Manufacturing Line,https://doi.org/10.1021/acs.nanolett.4c05205,107
+arxiv,EUV,2024,07d1c043f76af97ad2cc9ac9b899e6e5dd0a0fbe,Photon bunching in high-harmonic emission controlled by quantum light,https://doi.org/10.1038/s41566-025-01673-6,71
+arxiv,EUV,2023,4ddcf59d7f8e5c49f3c1e123facdb86360bdfea9,The Solar Upper Transition Region Imager (SUTRI) Onboard the SATech-01 Satellite,https://doi.org/10.1088/1674-4527/accc74,51
+arxiv,MultiPatterning,2025,733174973819c8b0c11b3e8db86e05d6b6ffb14f,Scaling nanoribbon transistors with monolayer transition metal dichalcogenides,https://doi.org/10.1038/s41565-026-02161-w,5
+arxiv,MultiPatterning,2023,789f5c02dda3c752da3bafd523ce28f3037a1300,GPU-accelerated matrix cover algorithm for multiple patterning layout decomposition,https://doi.org/10.1117/12.2657904,4
+arxiv,MultiPatterning,2025,6f19f120a0b3b1412881edcb14dca3ef6fa8f765,Patterning perovskite colour converters for AR/VR microdisplays,https://doi.org/10.1117/12.3079805,1
+arxiv,Chiplet,2023,50a1e77cd336579a5ccdd808eda66a34d3b58bbb,A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms,https://doi.org/10.1145/3729215,161
+arxiv,Chiplet,2023,41eb27da51181d04244b5f22b517f0ca0d9902d5,Majorana corner modes and tunable patterns in an altermagnet heterostructure,https://doi.org/10.1103/PhysRevB.108.205410,112
+arxiv,Chiplet,2023,fded702eeb473b1fa1eb95253c2aec05d225e970,Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators,https://doi.org/10.1109/HPCA57654.2024.00022,81
+arxiv,CompLitho,2024,2c876d31b15af430e7c9b3881e379a71cfa8c5d2,Differentiable Edge-Based OPC,https://doi.org/10.1145/3676536.3676764,14
+arxiv,CompLitho,2024,328ed96542db8730510d5487849fc291c559d822,ILILT: Implicit Learning of Inverse Lithography Technologies,https://doi.org/10.48550/arXiv.2405.03574,12
+arxiv,CompLitho,2024,498c8e332de35915e18107fad937061a237a9194,GPU-Accelerated Inverse Lithography Towards High Quality Curvy Mask Generation,https://doi.org/10.1145/3698364.3705343,10
+arxiv,CIM,2023,083e52983cd99b5726e3db8eb476aecc061bbf3b,Hardware-aware training for large-scale and diverse deep learning inference workloads using in-memory computing-based accelerators,https://doi.org/10.1038/s41467-023-40770-4,194
+arxiv,CIM,2024,505641490f56e0a0b67757a1f3a157bf5a62e97d,NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing,https://doi.org/10.1145/3620666.3651380,180
+arxiv,CIM,2023,50a1e77cd336579a5ccdd808eda66a34d3b58bbb,A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms,https://doi.org/10.1145/3729215,161
+arxiv,RISCV,2023,50a1e77cd336579a5ccdd808eda66a34d3b58bbb,A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms,https://doi.org/10.1145/3729215,161
+arxiv,RISCV,2023,2cfda2581748c2a47b3460c7255685b8c07740bf,Unlocking Hardware Security Assurance: The Potential of LLMs,https://doi.org/10.48550/arXiv.2308.11042,54
+arxiv,RISCV,2024,424e74c17d65615cce86e050a4f8389ccca16415,"X-HEEP: An Open-Source, Configurable and Extendible RISC-V Microcontroller for the Exploration of Ultra-Low-Power Edge Accelerators",https://doi.org/10.48550/arXiv.2401.05548,49
+arxiv,DTCO,2023,66b5a751a30d42963d13e1005f5df2e4650abbd9,"Wafer-Scale Computing: Advancements, Challenges, and Future Perspectives [Feature]",https://doi.org/10.1109/MCAS.2024.3349669,52
+arxiv,DTCO,2023,4ef86160b00fbcd0e378f07358fae1296fee081a,System and Design Technology Co-Optimization of SOT-MRAM for High-Performance AI Accelerator Memory System,https://doi.org/10.1109/TCAD.2023.3333754,12
+arxiv,DTCO,2023,8fa54d29012592bcc173a8b78dd53dbfd439b5a5,Fast Cell Library Characterization for Design Technology Co-Optimization Based on Graph Neural Networks,https://doi.org/10.1109/ASP-DAC58780.2024.10473933,11
+arxiv,HBM,2024,57e7af0b69325fafb371ef5d502e39ef9c90ef7e,Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads,https://doi.org/10.48550/arXiv.2401.10774,910
+arxiv,HBM,2023,87b712c0d8638c9db84ed414aa48e9bd55e3e895,"Ramulator 2.0: A Modern, Modular, and Extensible DRAM Simulator",https://doi.org/10.1109/LCA.2023.3333759,185
+arxiv,HBM,2024,a7ed53a0b332bfe629053d986e0e099d2131c899,Forecasting GPU Performance for Deep Learning Training and Inference,https://doi.org/10.1145/3669940.3707265,58
+arxiv,DRAM,2023,6ecd45137b421b3729c5b28ebb1bd17e71f98b27,Retrospective: Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors,https://doi.org/10.48550/arXiv.2306.16093,563
+arxiv,DRAM,2023,00e18c603e60d861c4e99c541e4d65ef442d5945,LLM in a flash: Efficient Large Language Model Inference with Limited Memory,https://doi.org/10.48550/arXiv.2312.11514,298
+arxiv,DRAM,2024,f3d401f01aa5cb2eb3974196efda8895d06610c7,Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving,https://doi.org/10.1145/3773772,252
+arxiv,PCM,2025,78ac15a242132ddce246a4414a7cf291ff5237cf,Amorphous phase-change memory alloy with no resistance drift,https://doi.org/10.1038/s41563-025-02361-0,32
+arxiv,PCM,2024,7d1f329dbe99f69927b4e23e489e47f853f27560,An automated framework for exploring and learning potential-energy surfaces,https://doi.org/10.1038/s41467-025-62510-6,29
+arxiv,PCM,2023,00f128930c4224dda4c748cb962beaaf6f80ab92,Reversible non-volatile electronic switching in a near-room-temperature van der Waals ferromagnet,https://doi.org/10.1038/s41467-024-46862-z,22
+arxiv,Photonic-computing,2023,e5c0c5a9e4c476627d1e9ce431aac0d4e4603812,Lithium tantalate photonic integrated circuits for volume manufacturing,https://doi.org/10.1038/s41586-024-07369-1,233
+arxiv,Photonic-computing,2023,124f60073c066e049cf8eec9101cb127c30fd209,"Photonics for Neuromorphic Computing: Fundamentals, Devices, and Opportunities",https://doi.org/10.1002/adma.202312825,101
+arxiv,Photonic-computing,2023,58f0b7a4fc7848ee0da5ae0c242931518343ec71,Reconfigurable image processing metasurfaces with phase-change materials,https://doi.org/10.1038/s41467-024-48783-3,100
+arxiv,HighNA,2023,e51ce5bbf955b72a9bd95a4294d62d92fa5a2fb2,3D-printed multilayer structures for high–numerical aperture achromatic metalenses,https://doi.org/10.1126/sciadv.adj9262,87
+arxiv,HighNA,2024,8a73ebd0a01ca3f95135f87dfbe12b60d6420637,Extreme ultraviolet lithography reaches 5 nm resolution.,https://doi.org/10.1039/d4nr01332h,47
+arxiv,HighNA,2024,2f2438102b003d6ffefb420a324e28d64c68908f,Towards improved semiconductor defect inspection for high-NA EUVL based on SEMI-SuperYOLO-NAS,https://doi.org/10.1117/12.3010940,6
+arxiv,UCIe,2024,baa4923ec93420af6416f021a4249fce20f084df,DRAMScope: Uncovering DRAM Microarchitecture and Characteristics by Issuing Memory Commands,https://doi.org/10.1109/ISCA59077.2024.00083,35
+arxiv,UCIe,2023,7537508d89f23cc56a91f7f8b4234d4ca4bae1ed,X-ray: Discovering DRAM Internal Structure and Error Characteristics by Issuing Memory Commands,https://doi.org/10.1109/LCA.2023.3296153,15
+arxiv,UCIe,2025,d68714354ded4018fb5298a0ca0a4e6d2f21a1dc,"On-Package Memory with Universal Chiplet Interconnect Express (UCIe): A Low Power, High Bandwidth, Low Latency and Low Cost Approach",https://doi.org/10.1109/HOTI66940.2025.00027,4
+arxiv,MRAM,2023,001b903ddf74855d7596b137f4798a7dca6a3f9f,Electrical control of magnetism by electric field and current-induced torques,https://doi.org/10.1103/RevModPhys.96.015005,100
+arxiv,MRAM,2024,d0a712aba5a54dab3228febedaf89d278b2c7b66,Harnessing orbital Hall effect in spin-orbit torque MRAM,https://doi.org/10.1038/s41467-024-55437-x,81
+arxiv,MRAM,2023,c0b9058a62089dce6c02a4855c6e2a1da7d57ecc,TinyVers: A Tiny Versatile System-on-Chip With State-Retentive eMRAM for ML Inference at the Extreme Edge,https://doi.org/10.1109/JSSC.2023.3236566,43
+arxiv,SiC,2023,0ab89d33c92aae485fa59f95391009605dfe28d2,High‐Quality and Wafer‐Scale Cubic Silicon Carbide Single Crystals,https://doi.org/10.1002/eem2.12678,52
+arxiv,SiC,2025,4506f965819bb839ef28da8b0e7b3d085f8fba61,Nanoscale Strain Evolution and Grain Boundary-Mediated Defect Sink Behavior in Irradiated SiC: Insights from N-PED and DFT,https://doi.org/10.1016/j.actamat.2025.121739,39
+arxiv,SiC,2023,2c6b41fb5354b4d7051d15c4d204687601ed71f5,The silicon vacancy centers in SiC: determination of intrinsic spin dynamics for integrated quantum photonics,https://doi.org/10.1038/s41534-024-00861-6,38
+arxiv,Ga2O3,2023,1d998dcfdf4053ae2d8928e7e864e4dfd0fbb5e5,Super-stealth dicing of transparent solids with nanometric precision,https://doi.org/10.1038/s41566-024-01437-8,104
+arxiv,Ga2O3,2023,686694ee6ccaa1a5dd3eec2518ec7a6c73965aaa,Universal radiation tolerant semiconductor,https://doi.org/10.1038/s41467-023-40588-0,98
+arxiv,Ga2O3,2023,94ec879f4526289cf2375b330d8ee4a7590ac7c4,Toward Sustainable Ultrawide Bandgap van der Waals Materials: An ab initio Screening Effort,https://doi.org/10.1002/adfm.202308679,44
+arxiv,OxideSemi,2023,c858032a5e1455e80f3968d9bf6c4073ca8e7112,Illuminating Trap Density Trends in Amorphous Oxide Semiconductors with Ultrabroadband Photoconduction,https://doi.org/10.1002/adfm.202300742,28
+arxiv,OxideSemi,2025,fb7e7886b5905c3afdb72e1c3639bf447de2b7c7,High-Field Breakdown and Thermal Characterization of Indium Tin Oxide Transistors.,https://doi.org/10.1021/acsnano.5c01572,10
+arxiv,OxideSemi,2025,80a7a84becedc2ca4105a0e9203941b8b889f37d,Subthreshold swing behavior in amorphous indium-gallium-zinc-oxide transistors from room to cryogenic temperatures,https://doi.org/10.1063/5.0271394,10
+arxiv,SiQubit,2024,b41e199e1cce10080035aa3b9c924c89ba648a50,Industry-compatible silicon spin-qubit unit cells exceeding 99% fidelity,https://doi.org/10.1038/s41586-025-09531-9,130
+arxiv,SiQubit,2025,153e5329f5f687cadfe0ba7b1e1c43d249084198,Simultaneous High-Fidelity Single-Qubit Gates in a Spin Qubit Array,https://arxiv.org/abs/2507.11918,51
+arxiv,SiQubit,2023,32ce78232a4ec25e2c0cfe912c9c10a4408202e1,Bounds to electron spin qubit variability for scalable CMOS architectures,https://doi.org/10.1038/s41467-024-48557-x,43
+arxiv,3DNAND,2024,95031a49f9a8843558b882a58b7d9cb9c3baa6c6,Cambricon-LLM: A Chiplet-Based Hybrid Architecture for On-Device Inference of 70B LLM,https://doi.org/10.1109/MICRO61859.2024.00108,59
+arxiv,3DNAND,2023,e38c09255d7c312648a6b2952942793161cc865f,NDSEARCH: Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing,https://doi.org/10.1109/ISCA59077.2024.00035,38
+arxiv,3DNAND,2023,2ca63daafe06b15a63186d7b821b52638d330e90,Venice: Improving Solid-State Drive Parallelism at Low Cost via Conflict-Free Accesses,https://doi.org/10.1145/3579371.3589071,34
+arxiv,HKMG,2023,8e73ae2449002c65503dadf7120452d41de439c0,Ferroelectric compute-in-memory annealer for combinatorial optimization problems,https://doi.org/10.1038/s41467-024-46640-x,55
+arxiv,HKMG,2024,adf97d34119b8f027eb2864e1fa5cd9d3d488dc0,Liquid Metal Oxide-Assisted Integration of High-k Dielectrics and Metal Contacts for Two-Dimensional Electronics.,https://doi.org/10.1021/acsnano.4c08554,22
+arxiv,HKMG,2023,c6dbdf80daa482a71e8a938a5d93ce402e65b106,Variation-Resilient FeFET-Based In-Memory Computing Leveraging Probabilistic Deep Learning,https://doi.org/10.1109/TED.2024.3378223,16
+arxiv,Resist,2024,8a73ebd0a01ca3f95135f87dfbe12b60d6420637,Extreme ultraviolet lithography reaches 5 nm resolution.,https://doi.org/10.1039/d4nr01332h,47
+arxiv,Resist,2023,3c97eec926049d21d0515fe3985f191c6d3ffcb1,Resistless EUV lithography: Photon-induced oxide patterning on silicon,https://doi.org/10.1126/sciadv.adf5997,31
+arxiv,Resist,2024,bcb5c0dc634bfd7aa8ebe11ecfee5f9cd066dff2,Tantalum airbridges for scalable superconducting quantum processors,https://doi.org/10.1038/s41534-025-00972-8,20
+arxiv,DSA,2023,443d8b9deae59845a50dea70ec0f452257470fbd,YOLOv8 for defect inspection of hexagonal directed self-assembly patterns: a data-centric approach,https://doi.org/10.1117/12.2675573,18
+arxiv,DSA,2024,f39a4b4ab9caa10dff699bfe5ed90646e8e54166,Analysis and discretization of the Ohta–Kawasaki equation with forcing and degenerate mobility,https://doi.org/10.1007/s42985-025-00362-x,4
+arxiv,DSA,2025,eba4294f4743467bdd3d577f633c85a1b7a70a99,Fully automated inverse co-optimization of templates and block copolymer blending recipes for DSA lithography,https://doi.org/10.48550/arXiv.2510.02715,0
+arxiv,HybridBonding,2025,0e5c4063d4375cbbe89a60afb99abe11352d5897,Stratum: System-Hardware Co-Design with Tiered Monolithic 3D-Stackable DRAM for Efficient MoE Serving,https://doi.org/10.1145/3725843.3756043,22
+arxiv,HybridBonding,2025,831d5e5235beb9261d9fd2162010d6cee8222cb2,HD-MoE: Hybrid and Dynamic Parallelism for Mixture-of-Expert LLMs with 3D Near-Memory Processing,https://doi.org/10.1109/ICCAD66269.2025.11240984,10
+arxiv,HybridBonding,2025,42825570e294c1dc5928983edd3925700466f89c,H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference,https://doi.org/10.1109/ICCAD66269.2025.11240713,8
+arxiv,FanOut,2025,52ca22c05750c7d1d07702165fe9790082df02c9,Low-Loss Integration of High-Density Polymer Waveguides with Silicon Photonics for Co-Packaged Optics,https://doi.org/10.1364/OPTICA.559260,17
+arxiv,FanOut,2025,9338d635a4ac5aa9e58643d1de36394a49b214fc,Defect Analysis and Built-In-Self-Test for Chiplet Interconnects in Fan-out Wafer-Level Packaging*,https://doi.org/10.1109/VTS65138.2025.11022917,6
+arxiv,FanOut,2025,0fba009fbd79eb1d57a919e891d72a3b78268cc5,Designing High-Performance and Thermally Feasible Multi-Chiplet Architectures Enabled by Non-Bendable Glass Interposer,https://doi.org/10.1145/3762644,6
+arxiv,MLforEDA,2024,bfeba7fc78b16da9c23c91d280e56f13e936e04d,BetterV: Controlled Verilog Generation with Discriminative Guidance,https://doi.org/10.48550/arXiv.2402.03375,182
+arxiv,MLforEDA,2024,044a340ece2e7d0e0a15186e64cd766f06a6e015,VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool,https://doi.org/10.48550/arXiv.2408.08927,146
+arxiv,MLforEDA,2023,ebdaf870202fa1d3aa8c1b0a911bc8f4721b28a7,Macro Placement by Wire-Mask-Guided Black-Box Optimization,https://doi.org/10.48550/arXiv.2306.16844,46
+arxiv,TFET,2023,2d6be3bf4b8f0278f7b3dba5d094174e66c62036,Spin dynamics in van der Waals magnetic systems,https://doi.org/10.1016/j.physrep.2023.09.002,54
+arxiv,TFET,2025,5518fd1bea7aa92febb85c3e0e58151eea6dc633,Indium selenides for next-generation low-power computing devices,https://doi.org/10.1038/s44287-025-00251-w,12
+arxiv,TFET,2023,26425880e7e8a128d2f6bc7afc34a078e5a85c5a,"Versatility of the SiH–CdCl2 Heterostructure: Piezoelectricity, Photocatalysis, and Transistor Applications",https://doi.org/10.1021/acs.jpcc.3c04021,9
+arxiv,NIL,2023,6ec595db61a5ee546511dbf78024a14ea9303e50,Visible Metalenses with High Focusing Efficiency Fabricated Using Nanoimprint Lithography,https://doi.org/10.1002/adom.202301865,30
+arxiv,NIL,2023,1c8f8a6dda6c9b4b99a9556512fa463ed461f763,Sol-Gel Barium Titanate Nanohole Array as a Nonlinear Metasurface and a Photonic Crystal.,https://doi.org/10.1002/smll.202304355,17
+arxiv,NIL,2024,b065153c309883668bfb296bcdf0290d00042587,Scalable Lithium Niobate Nanoimprinting for Nonlinear Metalenses,https://doi.org/10.1002/adma.202418957,15
+arxiv,GAA,2024,32f5805df9fae61d4e7ac9db260fcb986e5d7349,iPREFER: An Intelligent Parameter Extractor based on Features for BSIM-CMG Models,https://doi.org/10.48550/arXiv.2404.07827,5
+arxiv,GAA,2026,268d563d262b49f023672d8dfdf8ac1b5d8299fa,Multi-Partner Project: COIN-3D – Collaborative Innovation in 3D VLSI Reliability,https://doi.org/10.23919/DATE69613.2026.11539078,4
+arxiv,GAA,2025,1d175d7957c8667b36c96c284a20651150456100,3D atomic-scale metrology of strain relaxation and roughness in Gate-All-Around transistors via electron ptychography,https://doi.org/10.1038/s41467-026-69733-1,4
+arxiv,Airgap,2024,22417301a67b8bbf7ca5a2fb704783a0ebb0d158,Amorphous boron nitride as an ultrathin copper diffusion barrier for advanced interconnects,https://doi.org/10.1088/2053-1583/ae2521,2
+arxiv,Airgap,2026,cfa3993c4d6457ced6d7ac662a05ef68a147b1cd,Atomically thin amorphous carbon with an ultralow dielectric constant,https://doi.org/10.1038/s41928-026-01685-2,0
+arxiv,BSPDN,2025,57e31ddc5cf516edd7671c6c565a1fd7eda9ed99,Thermal Implications of Non-Uniform Power in BSPDN-Enabled 2.5D/3D Chiplet-Based Systems-in-Package Using Nanosheet Technology,https://doi.org/10.1109/ESSERC66193.2025.11214083,4
+arxiv,BSPDN,2024,4e3f89c1d357642249b677ec862f6106fda8cf28,"Omni 3D: BEOL-Compatible 3-D Logic With Omnipresent Power, Signal, and Clock",https://doi.org/10.1109/TED.2025.3537955,3
+arxiv,BSPDN,2024,120e88e3b89c8dc4c7a13258471d11ee465db757,Fashion Image-to-Image Translation for Complementary Item Retrieval,https://doi.org/10.1016/j.ins.2026.123630,2
+arxiv,CFET,2025,cdad918490cbc6c57678ce7628cc7581b46b9955,J3DAI: A tiny DNN-Based Edge AI Accelerator for 3D-Stacked CMOS Image Sensor,https://doi.org/10.1109/ISLPED65674.2025.11261786,3
+arxiv,CFET,2025,1d8a1d50acd11e2182aacf98324f5c5a765673eb,A Tale of Two Sides of Wafer: Physical Implementation and Block-Level PPA on Flip FET with Dual-Sided Signals,https://doi.org/10.23919/DATE64628.2025.10993282,3
+arxiv,CFET,2024,4e3f89c1d357642249b677ec862f6106fda8cf28,"Omni 3D: BEOL-Compatible 3-D Logic With Omnipresent Power, Signal, and Clock",https://doi.org/10.1109/TED.2025.3537955,3
+arxiv,CNT,2024,4aaccea6edf807c1ed61df1429f64cc908cc36e9,Deep learning accelerated quantum transport simulations in nanoelectronics: from break junctions to field-effect transistors,https://doi.org/10.1038/s41524-025-01853-6,9
+arxiv,CNT,2025,d5d750a39a59bbd41bc9cb6f83d8a18dabcfada7,Flexible radio-frequency carbon nanotube transistors operating at frequencies above 100 GHz,https://doi.org/10.1038/s41928-026-01632-1,5
+arxiv,CNT,2024,1b319e08b229613776db4bb7a1d19116686d651c,Overcoming Ambient Drift and Negative-Bias Temperature Instability in Foundry Carbon Nanotube Transistors,https://doi.org/10.1021/acsami.4c22130,5
+arxiv,GlassSubstrate,2025,0fba009fbd79eb1d57a919e891d72a3b78268cc5,Designing High-Performance and Thermally Feasible Multi-Chiplet Architectures Enabled by Non-Bendable Glass Interposer,https://doi.org/10.1145/3762644,6
+arxiv,CoWoS,2025,3378f10e0f0254566da08f6ed3ef85342f3e3fa5,Design Guidelines for In-line X-ray Inspection in Advanced Packaging Technology: A CoWoS Case Study,https://doi.org/10.4071/001c.147293,1
+arxiv,CoWoS,2026,75df42263f03712ec90b2724903f77bd699756da,"The Economics of AI Decoding Chips: Rebalancing Compute, Capacity, and Bandwidth for Efficient LLM Inference",https://doi.org/10.48550/arXiv.2607.13068,0
+arxiv,RuMo,2025,c3964cca0d48a6e15504f4d058cf1085cfc9c6db,High-Throughput Screening of 2D Photocatalyst Heterostructures with Suppressed Electron–Hole Recombination for Solar Water Splitting,https://doi.org/10.1021/acsaem.5c02326,8
+arxiv,RuMo,2026,f501eaefebbd32f922025417fae0ee272fbddd3c,Domain-Wall-Mediated Ultralow-Barrier Sliding and Pinning in Ferroelectric Moir\'e Superlattices Revealed by Machine Learning,https://arxiv.org/abs/2604.20277,1
+arxiv,RuMo,2025,8288e1163318a2d8742e1fa23fc0e8f7e8b74084,Atomic Layer Etching of Aluminum Nitride: Mechanistic Insights from First-Principles Studies of Chlorine Chemistry,https://arxiv.org/abs/2509.07554,1

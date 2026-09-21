@@ -1,0 +1,275 @@
+{
+  "_doc": [
+    "Concept taxonomy for semiconductor trend analysis.",
+    "Each concept has a list of synonyms. Matching rules (see semitrend/matcher.py):",
+    "  - Plain phrase (contains lowercase letters): case-insensitive; spaces/hyphens are interchangeable",
+    "    and optional (so 'nano sheet' also matches 'nanosheet' and 'nano-sheet'); trailing plural allowed.",
+    "  - Acronym (no lowercase letters, e.g. 'GAA', 'HBM3', '3D IC'): case-SENSITIVE whole-word match,",
+    "    to avoid false positives from common words.",
+    "  - 're:' prefix: raw regex, case-sensitive unless you use (?i).",
+    "  - 'exclude' (optional): regex; a document matching it is NOT counted even if a synonym hits.",
+    "  - 'require' (optional): regex; the document must ALSO match it (context gate, e.g. GaN only in power/RF context).",
+    "  - 's2_extra' (optional): plain terms added to the Semantic Scholar search query only (regex synonyms",
+    "    cannot be sent to the search engine, so list their plain forms here).",
+    "Edit freely; the analysis re-runs from the cached raw data without re-fetching.",
+    "'domain_terms' defines the corpus: it is sent as the OR-query to OpenAlex / IEEE / arXiv and",
+    "also applied locally (same matching rules) as a relevance gate, so all sources share one denominator."
+  ],
+  "domain_terms": [
+    "semiconductor", "transistor", "CMOS", "MOSFET", "lithography", "integrated circuit", "wafer", "FinFET",
+    "nanosheet", "gate all around", "chiplet", "advanced packaging", "DRAM", "SRAM", "NAND flash", "memristor",
+    "silicon photonics", "interposer", "hybrid bonding", "3D integration", "through silicon via", "EUV", "VLSI",
+    "foundry", "photoresist", "high bandwidth memory", "power device", "GaN", "gallium nitride", "SiC", "silicon carbide",
+    "Ga2O3", "BEOL", "system on chip", "ASIC", "IGBT", "HEMT", "thin film transistor", "nanowire transistor",
+    "2D material", "heterostructure", "epitaxy", "atomic layer deposition", "plasma etching", "chemical mechanical polishing",
+    "wafer level packaging", "photonic integrated circuit", "image sensor", "RRAM", "MRAM", "phase change memory",
+    "ferroelectric", "neuromorphic", "in memory computing", "processing in memory", "quantum dot", "spin qubit"
+  ],
+  "categories": {
+    "Transistor architecture": {
+      "GAA": {
+        "label": "GAA / nanosheet",
+        "synonyms": ["gate all around", "GAA", "GAAFET", "GAA-FET", "nanosheet FET", "nanosheet transistor", "nanosheet MOSFET",
+                     "nanosheet CMOS", "nanosheet technology", "nanosheet architecture", "nanosheet device", "nanosheet channel FET",
+                     "stacked nanosheet", "nanosheet stack", "NSFET", "NS-FET", "GAA nanosheet", "nanosheet based transistor",
+                     "nanoribbon FET", "nanoribbon transistor", "RibbonFET", "MBCFET", "multi bridge channel", "fork sheet", "forksheet",
+                     "stacked nanowire transistor", "stacked nanowire FET", "vertically stacked nanosheet", "vertically stacked nanowire"],
+        "require": "re:(?i)\\b(transistors?|FETs?|MOSFETs?|CMOS|logic|SRAM|node|gate)\\b",
+        "s2_extra": ["nanosheet"]
+      },
+      "FinFET": {
+        "label": "FinFET",
+        "synonyms": ["FinFET", "fin field effect transistor", "tri gate transistor", "trigate", "re:(?i)\\bfin-?fets?\\b"]
+      },
+      "CFET": {
+        "label": "CFET (complementary FET)",
+        "synonyms": ["CFET", "complementary FET", "complementary field effect transistor", "stacked CMOS", "3D stacked transistor"]
+      },
+      "BSPDN": {
+        "label": "Backside power delivery",
+        "synonyms": ["backside power", "back side power", "BSPDN", "BS-PDN", "PowerVia", "buried power rail", "BPR", "backside contact"]
+      },
+      "2D-channel": {
+        "label": "2D-material channel (MoS2 / TMD)",
+        "synonyms": ["MoS2", "WS2", "WSe2", "MoSe2", "transition metal dichalcogenide", "TMD", "TMDC",
+                     "2D semiconductor", "two dimensional semiconductor", "2D channel", "2D material transistor",
+                     "two dimensional material transistor"],
+        "exclude": "re:(?i)\\b(transverse magnetic dipole|tmd\\s*(?:reduction|disorder))\\b",
+        "require": "re:(?i)\\b(transistors?|FETs?|MOSFETs?|CMOS|logic|gate|channel)\\b"
+      },
+      "FeFET": {
+        "label": "Ferroelectric / negative-capacitance FET",
+        "synonyms": ["FeFET", "ferroelectric FET", "ferroelectric field effect transistor", "ferroelectric transistor",
+                     "negative capacitance", "NCFET", "NC-FET", "HfZrO", "hafnium zirconium oxide", "HZO"]
+      },
+      "TFET": {
+        "label": "Tunnel FET",
+        "synonyms": ["TFET", "tunnel FET", "tunnel field effect transistor", "tunneling field effect transistor", "tunnelling field effect transistor"]
+      },
+      "Node": {
+        "label": "Advanced node (7/5/3/2 nm, A16/A14)",
+        "synonyms": ["re:\\b(?:7|5|3|2)\\s?-?nm\\s+(?:node|technology|process|CMOS|FinFET|GAA)", "re:\\b(?:N7|N5|N3|N2|N3E|N2P|A16|A14)\\b(?=.*(?:node|process|technology|TSMC|foundry))",
+                     "re:\\b(?:7|5|3|2)\\s?nm\\s+(?:class|generation)\\b", "sub 3 nm", "sub 5 nm", "sub 7 nm", "angstrom era", "angstrom node"],
+        "s2_extra": ["7nm node", "5nm node", "3nm node", "2nm node", "7 nm node", "5 nm node", "3 nm node", "2 nm node",
+                     "7nm technology", "5nm technology", "3nm technology", "2nm technology", "7 nm technology", "5 nm technology",
+                     "3 nm technology", "2 nm technology", "5nm process", "3nm process", "2nm process", "N3", "N2", "A16", "A14"]
+      }
+    },
+    "Lithography & patterning": {
+      "EUV": {
+        "label": "EUV lithography",
+        "synonyms": ["EUV", "EUVL", "extreme ultraviolet", "extreme ultra violet", "extreme UV lithography", "13.5 nm lithography"],
+        "require": "re:(?i)\\b(lithograph\\w*|photoresists?|resists?|masks?|patterning|wafers?|scanners?|pellicles?|CMOS|semiconductor|node|exposure)\\b"
+      },
+      "HighNA": {
+        "label": "High-NA EUV",
+        "synonyms": ["high NA", "high numerical aperture EUV", "high numerical aperture lithography", "0.55 NA", "0.55NA", "hyper NA", "EXE:5000", "EXE:5200"]
+      },
+      "MultiPatterning": {
+        "label": "Multi-patterning (SADP/SAQP/LELE)",
+        "synonyms": ["multi patterning", "multiple patterning", "double patterning", "quadruple patterning", "self aligned double patterning",
+                     "self aligned quadruple patterning", "SADP", "SAQP", "LELE", "litho etch litho etch", "pitch splitting"]
+      },
+      "DSA": {
+        "label": "Directed self-assembly",
+        "synonyms": ["directed self assembly", "DSA lithography", "block copolymer lithography", "block copolymer patterning"]
+      },
+      "NIL": {
+        "label": "Nanoimprint lithography",
+        "synonyms": ["nanoimprint", "nano imprint lithography", "NIL lithography", "imprint lithography"]
+      },
+      "CompLitho": {
+        "label": "Computational lithography (OPC/ILT/SMO)",
+        "synonyms": ["optical proximity correction", "OPC", "inverse lithography", "ILT", "source mask optimization", "SMO",
+                     "computational lithography", "mask optimization", "resolution enhancement technique", "RET"],
+        "exclude": "re:(?i)\\b(one[- ]pass|order[- ]parameter|opc[- ]ua|open[- ]platform communications)\\b"
+      },
+      "Resist": {
+        "label": "Photoresist (CAR / metal-oxide / stochastics)",
+        "synonyms": ["photoresist", "photo resist", "chemically amplified resist", "metal oxide resist", "MOR resist", "tin oxide resist",
+                     "stochastic defect", "line edge roughness", "LER", "LWR", "line width roughness", "dry resist", "EUV resist"]
+      }
+    },
+    "Advanced packaging": {
+      "CoWoS": {
+        "label": "CoWoS",
+        "synonyms": ["CoWoS", "chip on wafer on substrate", "CoWoS-S", "CoWoS-L", "CoWoS-R"]
+      },
+      "Chiplet": {
+        "label": "Chiplet / disaggregation",
+        "synonyms": ["chiplet", "chiplets", "disaggregated SoC", "disaggregated design", "multi die", "multi chip module", "MCM",
+                     "die to die interconnect", "D2D interconnect", "system in package", "SiP"],
+        "exclude": "re:\\b(SIP|Session Initiation Protocol)\\b"
+      },
+      "3DIC": {
+        "label": "2.5D / 3D integration (TSV, interposer)",
+        "synonyms": ["3D IC", "3D-IC", "3DIC", "2.5D", "2.5-D", "three dimensional integration", "3D integration", "3D integrated circuit",
+                     "through silicon via", "TSV", "silicon interposer", "interposer", "monolithic 3D", "M3D", "sequential 3D",
+                     "3D stacking", "die stacking", "wafer stacking", "3D heterogeneous integration", "heterogeneous integration"]
+      },
+      "HybridBonding": {
+        "label": "Hybrid bonding / SoIC",
+        "synonyms": ["hybrid bonding", "Cu-Cu bonding", "Cu Cu bonding", "copper copper bonding", "copper to copper bonding", "SoIC",
+                     "wafer on wafer", "WoW bonding", "die to wafer", "D2W bonding", "chip on wafer bonding", "bump less", "bumpless", "direct bond interconnect"]
+      },
+      "HBM": {
+        "label": "High-bandwidth memory (HBM)",
+        "synonyms": ["high bandwidth memory", "re:\\bHBM[2-4]?E?\\b", "HBM-PIM", "HBM stack"],
+        "s2_extra": ["HBM", "HBM2", "HBM2E", "HBM3", "HBM3E", "HBM4"]
+      },
+      "FanOut": {
+        "label": "Fan-out packaging (FOWLP / InFO / FOPLP)",
+        "synonyms": ["fan out wafer level", "fan out panel level", "FOWLP", "FOPLP", "InFO", "integrated fan out", "fan out packaging",
+                     "wafer level packaging", "WLP", "panel level packaging", "redistribution layer", "RDL"]
+      },
+      "UCIe": {
+        "label": "UCIe / die-to-die standards",
+        "synonyms": ["UCIe", "universal chiplet interconnect express", "bunch of wires", "BoW interface", "AIB", "advanced interface bus"]
+      },
+      "CPO": {
+        "label": "Silicon photonics / co-packaged optics",
+        "synonyms": ["co packaged optics", "CPO", "silicon photonics", "photonic interconnect", "optical interconnect", "optical I/O",
+                     "photonic integrated circuit", "PIC", "optical interposer", "photonic chiplet"],
+        "exclude": "re:(?i)\\b(particle[- ]in[- ]cell|pic microcontroller|position[- ]independent code)\\b"
+      },
+      "GlassSubstrate": {
+        "label": "Glass core / glass substrate",
+        "synonyms": ["glass substrate packaging", "glass core substrate", "glass interposer", "through glass via", "TGV", "glass panel packaging"]
+      }
+    },
+    "Interconnect & BEOL": {
+      "RuMo": {
+        "label": "Ru / Mo interconnect (post-Cu)",
+        "synonyms": ["ruthenium interconnect", "Ru interconnect", "molybdenum interconnect", "Mo interconnect", "ruthenium liner",
+                     "barrierless", "barrier less interconnect", "subtractive metallization", "semi damascene", "semi-damascene",
+                     "Ru via", "ruthenium via", "post copper interconnect", "beyond copper interconnect"]
+      },
+      "Airgap": {
+        "label": "Air-gap / low-k dielectric",
+        "synonyms": ["air gap interconnect", "airgap interconnect", "air gap dielectric", "low k dielectric", "ultra low k", "ULK dielectric", "porous low k"]
+      },
+      "HKMG": {
+        "label": "High-k / metal gate",
+        "synonyms": ["high k metal gate", "HKMG", "high k dielectric", "high k gate", "hafnium oxide gate", "HfO2 gate", "work function metal"]
+      }
+    },
+    "Memory": {
+      "3DNAND": {
+        "label": "3D NAND",
+        "synonyms": ["3D NAND", "3-D NAND", "vertical NAND", "V-NAND", "VNAND", "charge trap flash", "NAND flash", "string stacking", "wordline stacking"]
+      },
+      "DRAM": {
+        "label": "DRAM (incl. 3D / vertical channel)",
+        "synonyms": ["DRAM", "dynamic random access memory", "3D DRAM", "vertical channel transistor DRAM", "VCT DRAM", "IGZO DRAM", "2T0C", "1T1C", "capacitorless DRAM"]
+      },
+      "MRAM": {
+        "label": "MRAM / spintronic memory",
+        "synonyms": ["MRAM", "STT-MRAM", "STT MRAM", "SOT-MRAM", "SOT MRAM", "spin transfer torque memory", "spin orbit torque memory",
+                     "magnetic tunnel junction memory", "magnetoresistive random access memory", "magnetic random access memory"]
+      },
+      "RRAM": {
+        "label": "RRAM / memristor",
+        "synonyms": ["RRAM", "ReRAM", "resistive random access memory", "resistive switching memory", "memristor", "memristive",
+                     "conductive bridge RAM", "CBRAM", "oxide RAM", "OxRAM"]
+      },
+      "PCM": {
+        "label": "Phase-change memory",
+        "synonyms": ["phase change memory", "PCM memory", "PCRAM", "PRAM", "Ge2Sb2Te5", "GST memory", "3D XPoint", "Optane"],
+        "exclude": "re:(?i)\\b(pulse[- ]code modulation|phase[- ]change material for thermal|phase[- ]contrast)\\b"
+      },
+      "FeRAM": {
+        "label": "FeRAM / ferroelectric memory",
+        "synonyms": ["FeRAM", "FRAM", "ferroelectric memory", "ferroelectric random access memory", "ferroelectric tunnel junction", "FTJ", "ferroelectric capacitor memory"]
+      },
+      "CIM": {
+        "label": "Compute-in-memory / PIM",
+        "synonyms": ["compute in memory", "computing in memory", "in memory computing", "in memory computation", "processing in memory",
+                     "process in memory", "near memory computing", "near memory processing", "CIM", "PIM", "PNM", "analog in memory",
+                     "memristor crossbar", "crossbar array accelerator"],
+        "exclude": "re:(?i)\\b(pim[- ]sm|particle[- ]in[- ]mesh|cim[- ]10|critical infrastructure|common information model|computer integrated manufacturing)\\b"
+      }
+    },
+    "Materials & power devices": {
+      "GaN": {
+        "label": "GaN power / RF",
+        "synonyms": ["GaN", "gallium nitride", "GaN HEMT", "GaN on Si", "GaN-on-Si", "GaN on SiC", "AlGaN/GaN", "GaN power"],
+        "require": "re:(?i)\\b(HEMTs?|power|RF|high electron mobility|switch\\w*|converters?|amplifiers?|breakdown|MOSFETs?|transistors?|MMICs?|inverters?|rectifiers?|diodes?)\\b"
+      },
+      "SiC": {
+        "label": "SiC power",
+        "synonyms": ["SiC MOSFET", "silicon carbide MOSFET", "silicon carbide power", "SiC power", "4H-SiC", "4H SiC", "SiC device", "SiC wafer", "silicon carbide device", "silicon carbide wafer"]
+      },
+      "Ga2O3": {
+        "label": "Ga2O3 / ultra-wide bandgap",
+        "synonyms": ["Ga2O3", "gallium oxide", "beta-Ga2O3", "ultra wide bandgap", "ultrawide bandgap", "UWBG", "AlN power", "diamond power device", "diamond semiconductor"]
+      },
+      "OxideSemi": {
+        "label": "Oxide semiconductor (IGZO)",
+        "synonyms": ["IGZO", "indium gallium zinc oxide", "In-Ga-Zn-O", "oxide semiconductor transistor", "oxide TFT", "amorphous oxide semiconductor", "InGaZnO", "oxide channel transistor"]
+      },
+      "CNT": {
+        "label": "Carbon nanotube transistor",
+        "synonyms": ["carbon nanotube transistor", "carbon nanotube FET", "CNTFET", "CNFET", "CNT FET", "CNT transistor", "carbon nanotube field effect transistor", "carbon nanotube CMOS"]
+      },
+      "Cryo": {
+        "label": "Cryogenic CMOS / quantum control",
+        "synonyms": ["cryo CMOS", "cryogenic CMOS", "cryogenic transistor", "cryogenic electronics", "cryogenic control electronics", "4 K CMOS", "cryogenic integrated circuit"]
+      },
+      "SiQubit": {
+        "label": "Silicon spin qubit",
+        "synonyms": ["silicon spin qubit", "silicon qubit", "Si/SiGe qubit", "SiGe quantum dot qubit", "silicon quantum dot qubit", "MOS quantum dot", "spin qubit in silicon", "CMOS qubit", "silicon quantum computing"]
+      }
+    },
+    "Design & compute": {
+      "AIAccel": {
+        "label": "AI accelerator / NPU",
+        "synonyms": ["AI accelerator", "AI chip", "neural network accelerator", "deep learning accelerator", "DNN accelerator", "NPU", "TPU",
+                     "neural processing unit", "tensor processing unit", "inference accelerator", "transformer accelerator", "LLM accelerator",
+                     "systolic array", "AI ASIC"],
+        "exclude": "re:\\b(TPU\\s*(?:polymer|polyurethane))\\b"
+      },
+      "Neuromorphic": {
+        "label": "Neuromorphic hardware",
+        "synonyms": ["neuromorphic", "spiking neural network hardware", "SNN accelerator", "SNN chip", "brain inspired computing", "brain inspired hardware", "synaptic device", "artificial synapse", "artificial neuron device", "Loihi"]
+      },
+      "RISCV": {
+        "label": "RISC-V",
+        "synonyms": ["RISC-V", "RISCV", "RISC V"]
+      },
+      "MLforEDA": {
+        "label": "ML for EDA / chip design",
+        "synonyms": ["machine learning for EDA", "ML for EDA", "AI for EDA", "reinforcement learning placement", "learning based placement", "chip placement",
+                     "macro placement", "LLM for chip design", "LLM for RTL", "RTL generation", "Verilog generation", "LLM for hardware design",
+                     "AI driven chip design", "learning based routing", "GNN for EDA", "graph neural network for circuit", "analog layout automation"]
+      },
+      "DTCO": {
+        "label": "DTCO / STCO",
+        "synonyms": ["design technology co optimization", "DTCO", "system technology co optimization", "STCO", "technology co optimization"]
+      },
+      "Photonic-computing": {
+        "label": "Photonic / optical computing",
+        "synonyms": ["photonic computing", "optical computing", "photonic neural network", "optical neural network", "photonic accelerator", "photonic processor", "optical processor", "photonic tensor core"]
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "run_at": "2026-09-10T13:54:29",
+  "config": "C:\\semiconductor\\config\\keywords.json",
+  "sources": {
+    "s2": [
+      "C:\\semiconductor\\data\\raw\\s2_concepts.1.jsonl",
+      "C:\\semiconductor\\data\\raw\\s2_concepts.2.jsonl",
+      "C:\\semiconductor\\data\\raw\\s2_concepts.jsonl"
+    ]
+  },
+  "mode": "s2",
+  "docs_analysed": 129993,
+  "docs_in_domain_analysed": 101326,
+  "corpus_in_domain_est": 978703.2135569395,
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "partial_year": 2026,
+  "recent_window": 3,
+  "n_concepts": 47
+}
